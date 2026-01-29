@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "VRSuya",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "VRSuya ロゴ",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.VRSuya": {
+    "message": "VRSuya",
+    "description": "Navbar item with label VRSuya"
+  },
+  "item.label.VRChat": {
+    "message": "VRChat",
+    "description": "Navbar item with label VRChat"
+  },
+  "item.label.블로그": {
+    "message": "ブログ",
+    "description": "Navbar item with label 블로그"
+  },
+  "item.label.BOOTH": {
+    "message": "BOOTH",
+    "description": "Navbar item with label BOOTH"
+  },
+  "item.label.Lethal Company": {
+    "message": "Lethal Company",
+    "description": "Navbar item with label Lethal Company"
+  }
+}

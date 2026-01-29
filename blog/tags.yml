@@ -1,0 +1,20 @@
+vrchat:
+  label: VRChat
+  permalink: /vrchat
+  description: VRChat 관련 아티클
+developer:
+  label: 개발자 업데이트
+  permalink: /developer
+  description: 개발자 업데이트 요약 및 번역
+guide:
+  label: 강좌
+  permalink: /guide
+  description: VRChat 관련 강좌
+unity:
+  label: Unity
+  permalink: /unity
+  description: Unity 관련 아티클
+modularavatar:
+  label: Modular Avatar
+  permalink: /modularavatar
+  description: 모듈러 아바타 관련 아티클

@@ -1,0 +1,9 @@
+{
+  "label": "판매 아이템",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "VRSuya 제작 아이템",
+    "slug": "/category/product"
+  }
+}

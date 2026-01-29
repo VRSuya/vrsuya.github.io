@@ -1,0 +1,16 @@
+vrchat:
+  label: VRChat
+  permalink: /vrchat
+  description: VRChat 관련 아티클
+developer:
+  label: 개발자 업데이트
+  permalink: /developer
+  description: VRChat에 앞으로 변경 될 사항을 알리는 개발자 업데이트
+beta:
+  label: 베타
+  permalink: /beta
+  description: VRChat에 오픈 베타 업데이트 되어서 현재 미리 체험 가능한 업데이트 로그
+update:
+  label: 업데이트
+  permalink: /update
+  description: VRChat에 업데이트 되어서 현재 변경된 사항 업데이트 로그
