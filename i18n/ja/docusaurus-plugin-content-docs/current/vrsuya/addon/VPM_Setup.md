@@ -14,12 +14,12 @@ sidebar_position: 1
 
 ### 링크를 통해 설치
 
-[여기](vcc://vpm/addRepo?url=https://server.macchiato.kr/vpm/vpm.json)를 눌러서 리스트를 등록합니다.
+[여기](vcc://vpm/addRepo?url=https://vrsuya.com/vpm/vpm.json)를 눌러서 리스트를 등록합니다.
 
 또는 아래의 주소를 인터넷 브라우저에서 접속해 주세요
 
 ```
-vcc://vpm/addRepo?url=https://server.macchiato.kr/vpm/vpm.json
+vcc://vpm/addRepo?url=https://vrsuya.com/vpm/vpm.json
 ```
 
 ### VCC에서 직접 추가
@@ -29,7 +29,7 @@ vcc://vpm/addRepo?url=https://server.macchiato.kr/vpm/vpm.json
 - Settings → Packages → Add Repository → 아래의 JSON 주소 입력 → Add
 
 ```
-https://server.macchiato.kr/vpm/vpm.json
+https://vrsuya.com/vpm/vpm.json
 ```
 
 ## 2️⃣ 패키지 설치

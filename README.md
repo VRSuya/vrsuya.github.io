@@ -7,7 +7,7 @@ VRSuya 웹사이트 리포지토리
 ## 리포지토리 주소
 
 ```
-https://gitlab.macchiato.kr/vrsuya-git/Website.git
+https://gitlab.vrsuya.com/vrsuya-git/Website.git
 ```
 
 ## Copyright

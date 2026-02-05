@@ -34,7 +34,7 @@ VRChat 아바타가 업로드가 안 되어서 도움 요청 올라오는 케이
 
 해결법은 무슨 컴포넌트인지 알면 **해당 애드온을 설치하거나 Missing Script 컴포넌트를 삭제**하는 방법인데, 어떤 애드온이 필요한지 알려면 해당 에셋의 페이지를 참고하면 됨
 
-Missing Script 컴포넌트를 제거하는 애드온은 [lilAvatarUtils(삭제)](https://lilxyzw.booth.pm/items/6532787) 애드온이 있고, 여기도 관련해서 [Cleaner(선택+삭제)](https://github.com/crestudio/VRSuya-Cleaner)라는 애드온을 만들었는데 편한 쪽으로 쓰면 될 듯
+Missing Script 컴포넌트를 제거하는 애드온은 [lilAvatarUtils(삭제)](https://lilxyzw.booth.pm/items/6532787) 애드온이 있고, 여기도 관련해서 [Cleaner(선택+삭제)](https://github.com/VRSuya/VRSuya-Cleaner)라는 애드온을 만들었는데 편한 쪽으로 쓰면 될 듯
 
 <br/>
 

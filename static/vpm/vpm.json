@@ -10,12 +10,12 @@
           "unity": "2019.4",
           "dependencies": {},
           "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
+            "name": "VRSuya",
+            "email": "vrsuya@gmail.com",
+            "url": "https://github.com/VRSuya"
           },
-          "url": "https://github.com/crestudio/VRSuya-Cleaner/releases/download/1.00/com.vrsuya.cleaner-1.0.0.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "url": "https://github.com/VRSuya/VRSuya-Cleaner/releases/download/1.00/com.vrsuya.cleaner-1.0.0.zip?",
+          "repo": "https://vrsuya.com/vpm/vpm.json",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.0.9",
             "com.vrsuya.core": ">=0.1.0"
@@ -33,12 +33,12 @@
           "unity": "2019.4",
           "dependencies": {},
           "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
+            "name": "VRSuya",
+            "email": "vrsuya@gmail.com",
+            "url": "https://github.com/VRSuya"
           },
-          "url": "https://github.com/crestudio/VRSuya-Core/releases/download/0.01/com.vrsuya.core-0.0.1.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "url": "https://github.com/VRSuya/VRSuya-Core/releases/download/0.01/com.vrsuya.core-0.0.1.zip?",
+          "repo": "https://vrsuya.com/vpm/vpm.json",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.2.0"
           }
@@ -51,12 +51,12 @@
           "unity": "2019.4",
           "dependencies": {},
           "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
+            "name": "VRSuya",
+            "email": "vrsuya@gmail.com",
+            "url": "https://github.com/VRSuya"
           },
-          "url": "https://github.com/crestudio/VRSuya-Core/releases/download/0.02/com.vrsuya.core-0.0.2.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "url": "https://github.com/VRSuya/VRSuya-Core/releases/download/0.02/com.vrsuya.core-0.0.2.zip?",
+          "repo": "https://vrsuya.com/vpm/vpm.json",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.2.0"
           }
@@ -69,12 +69,12 @@
           "unity": "2019.4",
           "dependencies": {},
           "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
+            "name": "VRSuya",
+            "email": "vrsuya@gmail.com",
+            "url": "https://github.com/VRSuya"
           },
-          "url": "https://github.com/crestudio/VRSuya-Core/releases/download/0.10/com.vrsuya.core-0.1.0.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "url": "https://github.com/VRSuya/VRSuya-Core/releases/download/0.10/com.vrsuya.core-0.1.0.zip?",
+          "repo": "https://vrsuya.com/vpm/vpm.json",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.2.0"
           }
@@ -91,12 +91,12 @@
           "unity": "2019.4",
           "dependencies": {},
           "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
+            "name": "VRSuya",
+            "email": "vrsuya@gmail.com",
+            "url": "https://github.com/VRSuya"
           },
-          "url": "https://github.com/crestudio/VRSuya-Installer/releases/download/1.10/com.vrsuya.installer-1.1.0.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "url": "https://github.com/VRSuya/VRSuya-Installer/releases/download/1.10/com.vrsuya.installer-1.1.0.zip?",
+          "repo": "https://vrsuya.com/vpm/vpm.json",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.0.9",
             "com.vrsuya.core": ">=0.1.0"
@@ -114,12 +114,12 @@
           "unity": "2019.4",
           "dependencies": {},
           "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
+            "name": "VRSuya",
+            "email": "vrsuya@gmail.com",
+            "url": "https://github.com/VRSuya"
           },
-          "url": "https://github.com/crestudio/VRSuya-Utility/releases/download/1.10/com.vrsuya.utility-1.1.0.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "url": "https://github.com/VRSuya/VRSuya-Utility/releases/download/1.10/com.vrsuya.utility-1.1.0.zip?",
+          "repo": "https://vrsuya.com/vpm/vpm.json",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.0.9",
             "com.vrsuya.core": ">=0.1.0"
@@ -131,5 +131,5 @@
   "author": "VRSuya",
   "name": "VRSuya",
   "id": "com.vrsuya.vpm",
-  "url": "https://server.macchiato.kr/vpm/vpm.json"
+  "url": "https://vrsuya.com/vpm/vpm.json"
 }
