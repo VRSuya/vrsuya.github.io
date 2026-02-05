@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1930],{140:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/ja/blog","page":1,"postsPerPage":5,"totalPages":1,"totalCount":5,"blogDescription":"VRSuya \ube14\ub85c\uadf8","blogTitle":"VRSuya \ube14\ub85c\uadf8"}}')}}]);

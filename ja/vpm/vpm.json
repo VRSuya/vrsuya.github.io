@@ -1,0 +1,135 @@
+{
+  "packages": {
+    "com.vrsuya.cleaner": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.vrsuya.cleaner",
+          "version": "1.0.0",
+          "displayName": "VRSuya - Cleaner",
+          "description": "An add-on for organizing and sorting various properties and elements in Unity",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "VRSuya",
+            "email": "vrsuya@gmail.com",
+            "url": "https://github.com/VRSuya"
+          },
+          "url": "https://github.com/VRSuya/VRSuya-Cleaner/releases/download/1.00/com.vrsuya.cleaner-1.0.0.zip?",
+          "repo": "https://vrsuya.com/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.0.9",
+            "com.vrsuya.core": ">=0.1.0"
+          }
+        }
+      }
+    },
+    "com.vrsuya.core": {
+      "versions": {
+        "0.0.1": {
+          "name": "com.vrsuya.core",
+          "version": "0.0.1",
+          "displayName": "VRSuya - Core",
+          "description": "VRSuya Unity Component Dependency Required Package",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "VRSuya",
+            "email": "vrsuya@gmail.com",
+            "url": "https://github.com/VRSuya"
+          },
+          "url": "https://github.com/VRSuya/VRSuya-Core/releases/download/0.01/com.vrsuya.core-0.0.1.zip?",
+          "repo": "https://vrsuya.com/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          }
+        },
+        "0.0.2": {
+          "name": "com.vrsuya.core",
+          "version": "0.0.2",
+          "displayName": "VRSuya - Core",
+          "description": "VRSuya Unity Component Dependency Required Package",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "VRSuya",
+            "email": "vrsuya@gmail.com",
+            "url": "https://github.com/VRSuya"
+          },
+          "url": "https://github.com/VRSuya/VRSuya-Core/releases/download/0.02/com.vrsuya.core-0.0.2.zip?",
+          "repo": "https://vrsuya.com/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          }
+        },
+        "0.1.0": {
+          "name": "com.vrsuya.core",
+          "version": "0.1.0",
+          "displayName": "VRSuya - Core",
+          "description": "VRSuya Unity Component Dependency Required Package",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "VRSuya",
+            "email": "vrsuya@gmail.com",
+            "url": "https://github.com/VRSuya"
+          },
+          "url": "https://github.com/VRSuya/VRSuya-Core/releases/download/0.10/com.vrsuya.core-0.1.0.zip?",
+          "repo": "https://vrsuya.com/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          }
+        }
+      }
+    },
+    "com.vrsuya.installer": {
+      "versions": {
+        "1.1.0": {
+          "name": "com.vrsuya.installer",
+          "version": "1.1.0",
+          "displayName": "VRSuya - Installer",
+          "description": "Automatic install VRSuya assets program for VRChat avatars",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "VRSuya",
+            "email": "vrsuya@gmail.com",
+            "url": "https://github.com/VRSuya"
+          },
+          "url": "https://github.com/VRSuya/VRSuya-Installer/releases/download/1.10/com.vrsuya.installer-1.1.0.zip?",
+          "repo": "https://vrsuya.com/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.0.9",
+            "com.vrsuya.core": ">=0.1.0"
+          }
+        }
+      }
+    },
+    "com.vrsuya.utility": {
+      "versions": {
+        "1.1.0": {
+          "name": "com.vrsuya.utility",
+          "version": "1.1.0",
+          "displayName": "VRSuya - Utility",
+          "description": "Utility add-on for the Unity Editor, designed for VRChat",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "VRSuya",
+            "email": "vrsuya@gmail.com",
+            "url": "https://github.com/VRSuya"
+          },
+          "url": "https://github.com/VRSuya/VRSuya-Utility/releases/download/1.10/com.vrsuya.utility-1.1.0.zip?",
+          "repo": "https://vrsuya.com/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.0.9",
+            "com.vrsuya.core": ">=0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "author": "VRSuya",
+  "name": "VRSuya",
+  "id": "com.vrsuya.vpm",
+  "url": "https://vrsuya.com/vpm/vpm.json"
+}

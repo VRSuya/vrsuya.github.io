@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2850],{607:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/en/vrchat-update","page":1,"postsPerPage":33,"totalPages":1,"totalCount":33,"blogDescription":"VRChat Update Translation and Summary Blog","blogTitle":"VRChat Update Logs"}}')}}]);

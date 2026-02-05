@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6437],{4102:t=>{t.exports=JSON.parse('{"blogBasePath":"/ja/vrchat-update","blogTitle":"VRChat \uc5c5\ub370\uc774\ud2b8 \ub85c\uadf8","authorsListPath":"/ja/vrchat-update/authors"}')}}]);
