@@ -27,15 +27,24 @@ export default defineConfig({
       },
       { text: '아이템',
         items: [
-          {text: 'AFK 3종 세트', link: '/item/afk' },
-          {text: '모구모구 프로젝트', link: '/item/mogumogu' },
-          {text: '오타게', link: '/item/wotagei' },
-          {text: '아시아시 프로젝트', link: '/item/asiasi' },
-          {text: '뇨로뇨로 로코모션', link: '/item/nyoronyoro' },
-          {text: '핸드모션', link: '/item/handmotion' },
-          {text: '스야스야', link: '/item/suyasuya' },
-          {text: 'VR 사운드패드', link: '/item/soundpad' },
-          {text: 'More AFK', link: '/item/more-afk' }
+          {
+            items: [
+              {text: 'FAQ', link: '/item/faq' }
+            ]
+          },
+          {
+            items: [
+              {text: 'AFK 3종 세트', link: '/item/afk' },
+              {text: '모구모구 프로젝트', link: '/item/mogumogu' },
+              {text: '오타게', link: '/item/wotagei' },
+              {text: '아시아시 프로젝트', link: '/item/asiasi' },
+              {text: '뇨로뇨로 로코모션', link: '/item/nyoronyoro' },
+              {text: '핸드모션', link: '/item/handmotion' },
+              {text: '스야스야', link: '/item/suyasuya' },
+              {text: 'VR 사운드패드', link: '/item/soundpad' },
+              {text: 'More AFK', link: '/item/more-afk' }
+            ]
+          }
         ]
       },
       { text: '애드온',
