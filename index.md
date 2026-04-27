@@ -14,6 +14,9 @@ hero:
     - theme: alt
       text: 외주제작 의뢰
       link: /vrsuya/outsourcing
+    - theme: alt
+      text: 고객문의
+      link: "https://accounts.booth.pm/conversations/19238322/messages"
 
 features:
   - title: 💖 로코나 아바타 발매
