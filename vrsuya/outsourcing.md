@@ -5,6 +5,10 @@ aside: true
 outline: [1,3]
 ---
 
+<script setup>
+import { VPButton } from 'vitepress/theme'
+</script>
+
 # 💼 모션 커미션 및 외주
 
 ### 💼 커미션 / 외주
@@ -114,3 +118,7 @@ Expected Amount : JPY 1,000
 **이펙트나 파티클 등 에셋 제작도 옵션에 포함이 가능한가요?**
 
 > 애니메이션 제작에서 해당 분야는 포함 되어있지 않습니다.
+
+---
+
+<VPButton tag="a" href="https://accounts.booth.pm/conversations/19238322/messages" text="BOOTH 메시지로 문의하기" theme="brand" />
