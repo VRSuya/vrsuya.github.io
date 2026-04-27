@@ -6,6 +6,12 @@ export default defineConfig({
   description: "Dream and Space",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: {
+      light: '/logo/vrsuya_logo_svg_light.svg',
+      dark: '/logo/vrsuya_logo_svg_dark.svg',
+      alt: 'VRSuya'
+    },
+    siteTitle: false,
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
