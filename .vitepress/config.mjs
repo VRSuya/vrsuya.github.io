@@ -21,8 +21,9 @@ export default defineConfig({
         items: [
           {text: '브랜드 소개', link: '/vrsuya' },
           {text: '외주 의뢰', link: '/vrsuya/outsourcing' },
+          {text: '환불 정책', link: '/vrsuya/refund' },
           {text: '포트폴리오', link: '/vrsuya/portfolio' },
-          {text: '환불 정책', link: '/vrsuya/refund' }
+          {text: '뉴스룸', link: '/vrsuya/news' }
         ]
       },
       { text: '아이템',
@@ -69,7 +70,7 @@ export default defineConfig({
         },
         {
           text: '포트폴리오',
-          collapsed: false,
+          collapsed: true,
           items: [
             {text: '마요 AFK', link: '/vrsuya/portfolio/chocolate_rice_MAYO_AFK' },
             {text: '플럼 AFK', link: '/vrsuya/portfolio/komado_Plum_AFK' },
@@ -104,6 +105,13 @@ export default defineConfig({
             {text: '마야 AFK', link: '/vrsuya/portfolio/Kyubi_Maya_AFK' }
           ]
         },
+        {
+          text: '뉴스룸',
+          collapsed: true,
+          items: [
+            {text: '업데이트', link: '/vrsuya/news/update' }
+          ]
+        }
       ],
 
       '/item/': [
