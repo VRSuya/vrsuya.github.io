@@ -1,0 +1,15 @@
+.VPFeatures .icon {
+  width: 100% !important;
+  height: auto !important;
+  max-width: none !important;
+  aspect-ratio: 16 / 9;
+  margin-bottom: 16px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.VPFeatures .icon img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover;
+}

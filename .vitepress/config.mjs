@@ -1,14 +1,12 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "VRSuya",
   description: "Dream and Space",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     logo: {
-      light: '/logo/vrsuya_logo_svg_light.svg',
-      dark: '/logo/vrsuya_logo_svg_dark.svg',
+      light: '/asset/logo/vrsuya_logo_svg_light.svg',
+      dark: '/asset/logo/vrsuya_logo_svg_dark.svg',
       alt: 'VRSuya'
     },
     siteTitle: false,
@@ -45,20 +43,70 @@ export default defineConfig({
           {text: 'Cleaner', link: '/addon/cleaner' },
           {text: 'Core', link: '/addon/core' },
           {text: 'Installer', link: '/addon/installer' },
-          {text: 'Utility', link: '/item/Utility' }
+          {text: 'Utility', link: '/addon/utility' }
         ]
       }
     ],
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
+    sidebar: {
+      '/vrsuya/': [
+        {
+          text: 'VRSuya',
+          items: [
+            {text: '브랜드 소개', link: '/vrsuya' },
+            {text: '외주 의뢰', link: '/vrsuya/outsourcing' },
+            {text: '환불 정책', link: '/vrsuya/refund' }
+          ]
+        },
+        {
+          text: '포트폴리오',
+          collapsed: false,
+          items: [
+            {text: '마요 AFK', link: '/vrsuya/portfolio/chocolate_rice_MAYO_AFK' },
+            {text: '플럼 AFK', link: '/vrsuya/portfolio/komado_Plum_AFK' },
+            // {text: '플레어/라줄리 AFK', link: '/vrsuya/portfolio/Elychiffon_Flare_Lazuli_AFK' },
+            {text: '라무네 AFK', link: '/vrsuya/portfolio/EMOLab_Ramune_AFK' },
+            {text: '쿠마리 AFK', link: '/vrsuya/portfolio/JINGO_KUMALY_AFK' },
+            {text: 'VIVH AFK', link: '/vrsuya/portfolio/Rime_VIVH_AFK' },
+            {text: '네하일 AFK', link: '/vrsuya/portfolio/KANAlia_Nehail_AFK' },
+            {text: '노치카 AFK', link: '/vrsuya/portfolio/Hamuketsu_Nochica_AFK' },
+            {text: '에쿠 AFK', link: '/vrsuya/portfolio/septem47_Eku_AFK' },
+            {text: '치세 AFK', link: '/vrsuya/portfolio/VGC_Chise_AFK' },
+            {text: '허니비 의상용 모션', link: '/vrsuya/portfolio/Honeybee_Promote_Motion' },
+            {text: '포치마루 AFK', link: '/vrsuya/portfolio/Hamuketsu_Pochimaru_AFK' },
+            {text: '밀피 AFK', link: '/vrsuya/portfolio/MitoArisaka_Milfy_AFK' },
+            {text: '쇼콜라 AFK', link: '/vrsuya/portfolio/komado_Chocolat_AFK' },
+            {text: 'youka 의상용 모션', link: '/vrsuya/portfolio/Honeybee_youka_Motion' },
+            {text: '아이리 AFK', link: '/vrsuya/portfolio/Kyubi_Airi_AFK' },
+            {text: 'Fiesta del Agua 의상용 모션', link: '/vrsuya/portfolio/Honeybee_Fiesta_del_Agua_Motion' },
+            {text: '시나노 AFK', link: '/vrsuya/portfolio/pondero_Shinano_AFK' },
+            {text: 'E-girls 댄스 카피', link: '/vrsuya/portfolio/ShinRoumei_E-girls_Dance' },
+            {text: 'NewJeans 댄스 카피', link: '/vrsuya/portfolio/ShinRoumei_NewJeans_Dance' },
+            {text: '시오 AFK', link: '/vrsuya/portfolio/chocolate_rice_Sio_AFK' },
+            {text: '온나비 박수 모션', link: '/vrsuya/portfolio/Onnabi_Clap_Motion' },
+            {text: '슈가 AFK', link: '/vrsuya/portfolio/Aivy_Sugar_AFK' },
+            {text: 'Izanagi 의상용 AFK', link: '/vrsuya/portfolio/Jarnefeldt_Izanagi_AFK' },
+            {text: 'TWICE 댄스 카피', link: '/vrsuya/portfolio/ShinRoumei_TWICE_Dance' },
+            {text: 'Elyra 의상용 AFK', link: '/vrsuya/portfolio/Pini_Elyra_Motion' },
+            {text: '마누카 AFK', link: '/vrsuya/portfolio/JINGO_MANUKA_AFK' },
+            {text: '우즈키 AFK', link: '/vrsuya/portfolio/MinamotoSyun_Uzuki_AFK' },
+            {text: '모에 AFK', link: '/vrsuya/portfolio/Kyubi_Moe_AFK' },
+            {text: '튜베로즈 AFK', link: '/vrsuya/portfolio/MinamotoSyun_TubeRose_AFK' },
+            {text: '마야 AFK', link: '/vrsuya/portfolio/Kyubi_Maya_AFK' }
+          ]
+        },
+      ],
+
+      '/item/': [
+        {
+          text: 'VRSuya 프로젝트',
+          items: [
+            { text: '아바타 제작기', link: '/projects/vrsuya' },
+            { text: '에드온 개발', link: '/projects/addons' }
+          ]
+        }
+      ]
+    },
 
     socialLinks: [
       { 
@@ -82,7 +130,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'Powered by VitePress',
+      message: 'Reproduction and distribution of the website without written permission of the author is prohibited. Built with VitePress.',
       copyright: 'Copyright 2022-2026 VRSuya. All rights reserved.'
     }
   },
