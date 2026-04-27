@@ -2,7 +2,7 @@
 title: 외주 의뢰
 description: VRSuya 외주 진행 방식 및 가격 설명
 aside: true
-outline: [1,3]
+outline: [1, 3]
 ---
 
 <script setup>

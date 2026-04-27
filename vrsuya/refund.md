@@ -2,7 +2,7 @@
 title: 환불 정책
 description: VRSuya 스토어의 환불 정책
 aside: true
-outline: [1,3]
+outline: [1, 3]
 ---
 
 # 💴 환불 정책 {#refund-policy}

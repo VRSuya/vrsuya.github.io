@@ -16,7 +16,7 @@ export default defineConfig({
     },
 
     nav: [
-      { text: 'Home', link: '/' },
+      { text: '처음으로', link: '/' },
       { text: 'VRSuya',
         items: [
           {text: '브랜드 소개', link: '/vrsuya' },

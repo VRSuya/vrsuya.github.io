@@ -12,7 +12,7 @@ hero:
       text: BOOTH 스토어 방문
       link: "https://vrsuya.booth.pm"
     - theme: alt
-      text: 외주제작 의뢰
+      text: 외주제작
       link: /vrsuya/outsourcing
     - theme: alt
       text: 고객문의
