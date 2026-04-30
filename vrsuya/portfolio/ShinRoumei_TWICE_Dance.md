@@ -6,7 +6,9 @@ pageClass: portfolio
 
 # 💃 TWICE - Hare Hare 댄스
 
-**TWICE - Hare Hare 댄스 관련 영상 및 사진**
+<div class="sq-video-frame">
+  <video src="./video/VRSuya_ShinRoumei_TWICE_Harehare_DanceMotion.mp4" autoplay loop muted playsinline></video>
+</div>
 
 | 분야 | 내용 |
 | --- | --- |
@@ -15,4 +17,4 @@ pageClass: portfolio
 | 제작 | ``레빈`` |
 | 제작일 | 2023년 12월 |
 | 타입 | ``모션카피``, ``모션캡쳐``, ``댄스`` |
-| 시간 | 약 16초 |
+| 시간 | 약 20초 |

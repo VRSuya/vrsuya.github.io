@@ -6,13 +6,15 @@ pageClass: portfolio
 
 # 👏 온나비 박수 모션
 
-**온나비 박수 모션 관련 영상 및 사진**
+<div class="sq-video-frame">
+  <video src="./video/VRSuya_Onnabi_Clap_Motion.mp4" autoplay loop muted playsinline></video>
+</div>
 
 | 분야 | 내용 |
 | --- | --- |
 | 링크 | [YouTube](https://www.youtube.com/@%EB%94%B0%EB%B4%89%EB%82%98%EB%A3%A8) |
 | 클라이언트 | 온나비 |
-| 제작 | ``레빈``, ``후토`` |
+| 제작 | ``레빈``▶총괄, ``후토``▶리깅|
 | 제작일 | 2024년 2월 |
 | 타입 | ``오리지널``, ``손키``, ``소셜`` |
 | 시간 | 약 3초 |

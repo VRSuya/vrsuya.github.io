@@ -6,7 +6,9 @@ pageClass: portfolio
 
 # 😴 Elyra 의상용 AFK
 
-**피니 의상 AFK 관련 영상 및 사진**
+<div class="sq-video-frame">
+  <video src="./video/VRSuya_Pini_Elyra_AFK.mp4" autoplay loop muted playsinline></video>
+</div>
 
 | 분야 | 내용 |
 | --- | --- |

@@ -6,7 +6,9 @@ pageClass: portfolio
 
 # 💃 E-girls - Anniversary!! 댄스
 
-**E-girls - Anniversary!! 댄스 관련 영상 및 사진**
+<div class="sq-video-frame">
+  <video src="./video/VRSuya_ShinRoumei_E-girls_Anniversary!!_DanceMotion.mp4" autoplay loop muted playsinline></video>
+</div>
 
 | 분야 | 내용 |
 | --- | --- |

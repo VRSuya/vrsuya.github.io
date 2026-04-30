@@ -6,7 +6,9 @@ pageClass: portfolio
 
 # 😴 마누카 AFK
 
-**마누카 AFK 관련 영상 및 사진**
+<div class="sq-video-frame">
+  <video src="./video/VRSuya_JINGO_MANUKA_AFK.mp4" autoplay loop muted playsinline></video>
+</div>
 
 | 분야 | 내용 |
 | --- | --- |
@@ -15,4 +17,4 @@ pageClass: portfolio
 | 제작 | ``레빈`` |
 | 제작일 | 2023년 8월 |
 | 타입 | ``오리지널``, ``손키``, ``소셜`` |
-| 시간 | 약 18초 |
+| 시간 | 약 25초 |

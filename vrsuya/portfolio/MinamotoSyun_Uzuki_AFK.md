@@ -6,7 +6,9 @@ pageClass: portfolio
 
 # 😴 우즈키 AFK
 
-**우즈키 AFK 관련 영상 및 사진**
+<div class="sq-video-frame">
+  <video src="./video/VRSuya_MinamotoSyun_Uzuki_AFK.mp4" autoplay loop muted playsinline></video>
+</div>
 
 | 분야 | 내용 |
 | --- | --- |

@@ -6,7 +6,9 @@ pageClass: portfolio
 
 # 😴 모에 AFK
 
-**모에 AFK 관련 영상 및 사진**
+<div class="sq-video-frame">
+  <video src="./video/VRSuya_Kyubi_Moe_AFK.mp4" autoplay loop muted playsinline></video>
+</div>
 
 | 분야 | 내용 |
 | --- | --- |
@@ -14,5 +16,5 @@ pageClass: portfolio
 | 클라이언트 | 뀨비 |
 | 제작 | ``레빈`` |
 | 제작일 | 2023년 3월 |
-| 타입 | ``오리지널``, ``손키``, ``모션캡쳐``, ``소셜`` |
-| 시간 | 약 19초 |
+| 타입 | ``오리지널``, ``손키``, ``소셜`` |
+| 시간 | 약 30초 |

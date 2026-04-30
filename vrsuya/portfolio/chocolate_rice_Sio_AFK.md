@@ -7,7 +7,7 @@ pageClass: portfolio
 # 😴 시오 AFK
 
 <div class="sq-video-frame">
-  <video src="./video/chocolate_rice_Sio_AFK.mp4" autoplay loop muted playsinline></video>
+  <video src="./video/VRSuya_Chocolate_Rice_Sio_AFK.mp4" autoplay loop muted playsinline></video>
 </div>
 
 | 분야 | 내용 |
@@ -17,4 +17,4 @@ pageClass: portfolio
 | 제작 | ``레빈`` |
 | 제작일 | 2024년 3월 |
 | 타입 | ``오리지널``, ``손키``, ``소셜`` |
-| 시간 | 약 10초 |
+| 시간 | 약 50초 |

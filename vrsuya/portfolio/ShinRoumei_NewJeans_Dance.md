@@ -6,7 +6,9 @@ pageClass: portfolio
 
 # 💃 NewJeans - OMG 댄스
 
-**NewJeans - OMG 댄스 관련 영상 및 사진**
+<div class="sq-video-frame">
+  <video src="./video/VRSuya_ShinRoumei_NewJeans_OMG_DanceMotion.mp4" autoplay loop muted playsinline></video>
+</div>
 
 | 분야 | 내용 |
 | --- | --- |
