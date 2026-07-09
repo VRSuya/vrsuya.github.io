@@ -6,10 +6,6 @@ pageClass: portfolio
 
 # 👏 너구리아 아이들 모션
 
-<div class="sq-video-frame">
-  <video src="./video/VRSuya_Nuguria_Idle.mp4" autoplay loop muted playsinline></video>
-</div>
-
 | 분야 | 내용 |
 | --- | --- |
 | 링크 | [YouTube](https://youtube.com/shorts/TdttOUZJpo8?si=ZnVjtGOSM2gnYuUJ) |
