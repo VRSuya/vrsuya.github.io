@@ -22,7 +22,7 @@ export default defineConfig({
           {text: '브랜드 소개', link: '/vrsuya' },
           {text: '외주 의뢰', link: '/vrsuya/outsourcing' },
           {text: '환불 정책', link: '/vrsuya/refund' },
-          {text: '포트폴리오', link: '/vrsuya/portfolio' },
+          {text: '포트폴리오', link: '/vrsuya/portfolio/pondero_Shinano_AFK' },
           {text: '뉴스룸', link: '/vrsuya/news' }
         ]
       },
@@ -43,7 +43,8 @@ export default defineConfig({
               {text: '핸드모션', link: '/item/handmotion' },
               {text: '스야스야', link: '/item/suyasuya' },
               {text: 'VR 사운드패드', link: '/item/soundpad' },
-              {text: 'More AFK', link: '/item/more-afk' }
+              {text: 'More AFK', link: '/item/more-afk' },
+              {text: '핫삐핫삐 로코모션', link: '/item/happihappi' }
             ]
           }
         ]
@@ -72,23 +73,29 @@ export default defineConfig({
           text: '포트폴리오',
           collapsed: true,
           items: [
+            {text: 'MI☆CA AFK', link: '/vrsuya/portfolio/Chocomint-MICA_AFK' },
+            {text: 'Chained UP 의상용 기믹', link: '/vrsuya/portfolio/gyugyu-Chained_UP_Gimmick' },
+            {text: '샤미 AFK', link: '/vrsuya/portfolio/Hamuketsu_Shami_AFK' },
+            // {text: '우라라 AFK', link: '/vrsuya/portfolio/MyMeVR-Urara_AFK' },
             {text: '마요 AFK', link: '/vrsuya/portfolio/chocolate_rice_MAYO_AFK' },
             {text: '플럼 AFK', link: '/vrsuya/portfolio/komado_Plum_AFK' },
-            // {text: '플레어/라줄리 AFK', link: '/vrsuya/portfolio/Elychiffon_Flare_Lazuli_AFK' },
+            {text: '플레어/라줄리 AFK', link: '/vrsuya/portfolio/Elychiffon_Flare_Lazuli_AFK' },
             {text: '라무네 AFK', link: '/vrsuya/portfolio/EMOLab_Ramune_AFK' },
             {text: '쿠마리 AFK', link: '/vrsuya/portfolio/JINGO_KUMALY_AFK' },
             {text: 'VIVH AFK', link: '/vrsuya/portfolio/Rime_VIVH_AFK' },
+            // {text: '너구리아 아이들 모션', link: '/vrsuya/portfolio/Nuguria_Idle_Motion' },
+            {text: 'ReParkaDress 의상용 모션', link: '/vrsuya/portfolio/MinamotoSyun_ReParkaDress_Motion' },
             {text: '네하일 AFK', link: '/vrsuya/portfolio/KANAlia_Nehail_AFK' },
             {text: '노치카 AFK', link: '/vrsuya/portfolio/Hamuketsu_Nochica_AFK' },
             {text: '에쿠 AFK', link: '/vrsuya/portfolio/septem47_Eku_AFK' },
             {text: '치세 AFK', link: '/vrsuya/portfolio/VGC_Chise_AFK' },
-            {text: '허니비 의상용 모션', link: '/vrsuya/portfolio/Honeybee_Promote_Motion' },
+            {text: 'Seaside Breeze 의상용 모션', link: '/vrsuya/portfolio/Honeybee_SeasideBreeze_Motion' },
             {text: '포치마루 AFK', link: '/vrsuya/portfolio/Hamuketsu_Pochimaru_AFK' },
             {text: '밀피 AFK', link: '/vrsuya/portfolio/MitoArisaka_Milfy_AFK' },
             {text: '쇼콜라 AFK', link: '/vrsuya/portfolio/komado_Chocolat_AFK' },
             {text: 'youka 의상용 모션', link: '/vrsuya/portfolio/Honeybee_youka_Motion' },
             {text: '아이리 AFK', link: '/vrsuya/portfolio/Kyubi_Airi_AFK' },
-            {text: 'Fiesta del Agua 의상용 모션', link: '/vrsuya/portfolio/Honeybee_Fiesta_del_Agua_Motion' },
+            {text: 'Azarashi 의상용 모션', link: '/vrsuya/portfolio/Honeybee_Azarashi_Motion' },
             {text: '시나노 AFK', link: '/vrsuya/portfolio/pondero_Shinano_AFK' },
             {text: 'E-girls 댄스 카피', link: '/vrsuya/portfolio/ShinRoumei_E-girls_Dance' },
             {text: 'NewJeans 댄스 카피', link: '/vrsuya/portfolio/ShinRoumei_NewJeans_Dance' },
@@ -101,6 +108,7 @@ export default defineConfig({
             {text: '마누카 AFK', link: '/vrsuya/portfolio/JINGO_MANUKA_AFK' },
             {text: '우즈키 AFK', link: '/vrsuya/portfolio/MinamotoSyun_Uzuki_AFK' },
             {text: '모에 AFK', link: '/vrsuya/portfolio/Kyubi_Moe_AFK' },
+            {text: '유기/미요 AFK', link: '/vrsuya/portfolio/Saki_YUGI_MIYO_AFK' },
             {text: '튜베로즈 AFK', link: '/vrsuya/portfolio/MinamotoSyun_TubeRose_AFK' },
             {text: '마야 AFK', link: '/vrsuya/portfolio/Kyubi_Maya_AFK' }
           ]
@@ -109,7 +117,7 @@ export default defineConfig({
           text: '뉴스룸',
           collapsed: true,
           items: [
-            {text: '업데이트', link: '/vrsuya/news/update' }
+            {text: '뉴스룸', link: '/vrsuya/news' }
           ]
         }
       ],
@@ -167,6 +175,6 @@ export default defineConfig({
   cleanUrls: true,
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   sitemap: {
-    hostname: 'https://www.vrsuya.com'
+    hostname: 'https://vrsuya.com'
   }
 })

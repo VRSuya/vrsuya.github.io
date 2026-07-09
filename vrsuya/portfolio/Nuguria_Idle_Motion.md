@@ -14,7 +14,7 @@ pageClass: portfolio
 | --- | --- |
 | 링크 | [YouTube](https://youtube.com/shorts/TdttOUZJpo8?si=ZnVjtGOSM2gnYuUJ) |
 | 클라이언트 | 너구리아 |
-| 제작 | ``레빈``▶총괄, ``후토``▶리깅|
+| 제작 | ``레빈`` ▶ 총괄<br>``후토`` ▶ 리깅 |
 | 제작일 | 2025년 10월 |
 | 타입 | ``오리지널``, ``손키``, ``소셜`` |
 | 시간 | 약 3초 |
