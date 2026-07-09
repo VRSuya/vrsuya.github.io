@@ -1,0 +1,1 @@
+import{_ as s,o as e,c as i,ak as t}from"./chunks/framework.DceajB72.js";const g=JSON.parse('{"title":"Website","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),l={name:"README.md"};function n(r,a,h,o,p,d){return e(),i("div",null,[...a[0]||(a[0]=[t("",6)])])}const b=s(l,[["render",n]]);export{g as __pageData,b as default};
