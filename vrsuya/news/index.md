@@ -1,23 +1,6 @@
 ---
 layout: home
 
-hero:
-  name: "VRSuya"
-  text: "Dream and Space"
-  tagline: 3D Animation & Modeling Creator Group
-  image:
-    alt: VRSuya
-  actions:
-    - theme: brand
-      text: BOOTH 스토어 방문
-      link: "https://vrsuya.booth.pm"
-    - theme: alt
-      text: 외주제작
-      link: /vrsuya/outsourcing
-    - theme: alt
-      text: 고객문의
-      link: "https://accounts.booth.pm/conversations/19238322/messages"
-
 features:
   - title: ✨ Reino Dance 모션 배포
     details: 지금 SNS에서 화제인 Reino Dance를 VRChat에서 즐겨보세요! 모듈러 아바타 대응으로 이제 아바타에 아이템을 끌어다가 넣기만 하면 어디서나 댄스 가능! 더욱 더 발전된 기능을 체험해 보세요!
@@ -78,5 +61,25 @@ features:
       height: 'auto'
     }
     link: "https://vrsuya.booth.pm/items/6817525"
+    linkText: 더 알아보기
+  - title: ✨ Doodle Dance 모션 배포
+    details: YouTube, TikTok 등 다양한 SNS에서 중독성이 높은 Doodle Dance를 이제 간단하게 VRChat에서 즐겨보세요! 간단하게 액션 레이어에 넣고 이모트를 재생하면 어디서든 귀여운 댄스를 즐길 수 있답니다!
+    icon: {
+      src: '/asset/news/doodledance_card.jpg',
+      alt: 'Doodle Dance',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrsuya.booth.pm/items/6249275"
+    linkText: 더 알아보기
+  - title: 🎛️ VR 사운드패드 발매 개시
+    details: 소리가 필요한 순간, 언제 어디서든 누구나, 자유롭게 커스터마이즈 할 수 있는 15개의 버튼을 아바타에 넣어보세요! 최대 45개의 슬롯으로 구성된 버튼으로 즐거운 VRChat 라이프를 즐겨볼까요?
+    icon: {
+      src: '/asset/news/soundpad_card.jpg',
+      alt: 'VR 사운드패드',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrsuya.booth.pm/items/5950846"
     linkText: 더 알아보기
 ---
