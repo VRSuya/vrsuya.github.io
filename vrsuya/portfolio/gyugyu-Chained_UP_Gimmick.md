@@ -7,7 +7,7 @@ pageClass: portfolio
 # 👮‍♀️ Chained UP 의상용 기믹
 
 <div class="sq-video-frame">
-  <video src="./video/VRSuya_gyugyu-Chained_UP_Gimmick.mp4" autoplay loop muted playsinline></video>
+  <video src="/assets/portfolio/VRSuya_gyugyu-Chained_UP_Gimmick.mp4" autoplay loop muted playsinline></video>
 </div>
 
 | 분야 | 내용 |

@@ -7,7 +7,7 @@ pageClass: portfolio
 # 😴 시오 AFK
 
 <div class="sq-video-frame">
-  <video src="./video/VRSuya_Chocolate_Rice_Sio_AFK.mp4" autoplay loop muted playsinline></video>
+  <video src="/assets/portfolio/VRSuya_Chocolate_Rice_Sio_AFK.mp4" autoplay loop muted playsinline></video>
 </div>
 
 | 분야 | 내용 |

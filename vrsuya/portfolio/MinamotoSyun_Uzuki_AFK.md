@@ -7,7 +7,7 @@ pageClass: portfolio
 # 😴 우즈키 AFK
 
 <div class="sq-video-frame">
-  <video src="./video/VRSuya_MinamotoSyun_Uzuki_AFK.mp4" autoplay loop muted playsinline></video>
+  <video src="/assets/portfolio/VRSuya_MinamotoSyun_Uzuki_AFK.mp4" autoplay loop muted playsinline></video>
 </div>
 
 | 분야 | 내용 |

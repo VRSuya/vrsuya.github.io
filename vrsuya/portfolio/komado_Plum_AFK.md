@@ -7,7 +7,7 @@ pageClass: portfolio
 # 😴 플럼 AFK
 
 <div class="sq-video-frame">
-  <video src="./video/VRSuya_Komado_Plum_AFK.mp4" autoplay loop muted playsinline></video>
+  <video src="/assets/portfolio/VRSuya_Komado_Plum_AFK.mp4" autoplay loop muted playsinline></video>
 </div>
 
 | 분야 | 내용 |

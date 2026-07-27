@@ -7,7 +7,7 @@ pageClass: portfolio
 # 😴 포치마루 AFK
 
 <div class="sq-video-frame">
-  <video src="./video/VRSuya_Hamuketsu_Pochimaru_AFK.mp4" autoplay loop muted playsinline></video>
+  <video src="/assets/portfolio/VRSuya_Hamuketsu_Pochimaru_AFK.mp4" autoplay loop muted playsinline></video>
 </div>
 
 | 분야 | 내용 |

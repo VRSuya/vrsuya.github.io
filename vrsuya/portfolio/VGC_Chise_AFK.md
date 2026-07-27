@@ -7,7 +7,7 @@ pageClass: portfolio
 # 😴 치세 AFK
 
 <div class="sq-video-frame">
-  <video src="./video/VRSuya_VGC_Chise_AFK.mp4" autoplay loop muted playsinline></video>
+  <video src="/assets/portfolio/VRSuya_VGC_Chise_AFK.mp4" autoplay loop muted playsinline></video>
 </div>
 
 | 분야 | 내용 |

@@ -5,8 +5,8 @@ export default defineConfig({
   description: "Dream and Space",
   themeConfig: {
     logo: {
-      light: '/asset/logo/vrsuya_logo_svg_light.svg',
-      dark: '/asset/logo/vrsuya_logo_svg_dark.svg',
+      light: '/assets/logo/vrsuya_logo_svg_light.svg',
+      dark: '/assets/logo/vrsuya_logo_svg_dark.svg',
       alt: 'VRSuya'
     },
     siteTitle: false,

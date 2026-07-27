@@ -7,7 +7,7 @@ pageClass: portfolio
 # 😴 카나리아 AFK
 
 <div class="sq-video-frame">
-  <video src="./video/VRSuya_KANAlia_Nehail_AFK.mp4" autoplay loop muted playsinline></video>
+  <video src="/assets/portfolio/VRSuya_KANAlia_Nehail_AFK.mp4" autoplay loop muted playsinline></video>
 </div>
 
 | 분야 | 내용 |

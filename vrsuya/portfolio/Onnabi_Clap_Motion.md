@@ -7,7 +7,7 @@ pageClass: portfolio
 # 👏 온나비 박수 모션
 
 <div class="sq-video-frame">
-  <video src="./video/VRSuya_Onnabi_Clap_Motion.mp4" autoplay loop muted playsinline></video>
+  <video src="/assets/portfolio/VRSuya_Onnabi_Clap_Motion.mp4" autoplay loop muted playsinline></video>
 </div>
 
 | 분야 | 내용 |

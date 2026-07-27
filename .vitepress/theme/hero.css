@@ -10,7 +10,7 @@
   width: 100vw !important;
   height: 300% !important;
 
-  background-image: url('/asset/background.png');
+  background-image: url('/assets/background.png');
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;

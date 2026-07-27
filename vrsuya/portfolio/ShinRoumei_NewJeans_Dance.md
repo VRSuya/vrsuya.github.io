@@ -7,7 +7,7 @@ pageClass: portfolio
 # 💃 NewJeans - OMG 댄스
 
 <div class="sq-video-frame">
-  <video src="./video/VRSuya_ShinRoumei_NewJeans_OMG_Dance.mp4" autoplay loop muted playsinline></video>
+  <video src="/assets/portfolio/VRSuya_ShinRoumei_NewJeans_OMG_Dance.mp4" autoplay loop muted playsinline></video>
 </div>
 
 | 분야 | 내용 |

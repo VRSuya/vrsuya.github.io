@@ -7,7 +7,7 @@ pageClass: portfolio
 # 😴 플레어/라줄리 AFK
 
 <div class="sq-video-frame">
-  <video src="./video/VRSuya_Elychiffon_Flare_Lazuli_AFK.mp4" autoplay loop muted playsinline></video>
+  <video src="/assets/portfolio/VRSuya_Elychiffon_Flare_Lazuli_AFK.mp4" autoplay loop muted playsinline></video>
 </div>
 
 | 분야 | 내용 |
