@@ -8,7 +8,7 @@ pageClass: portfolio
 
 | 분야 | 내용 |
 | --- | --- |
-| 링크 | [YouTube](https://youtube.com/shorts/TdttOUZJpo8?si=ZnVjtGOSM2gnYuUJ) |
+| 링크 | [YouTube](https://www.youtube.com/shorts/TdttOUZJpo8) |
 | 클라이언트 | 너구리아 |
 | 제작 | ``레빈`` ▶ 총괄<br>``후토`` ▶ 리깅 |
 | 제작일 | 2025년 10월 |

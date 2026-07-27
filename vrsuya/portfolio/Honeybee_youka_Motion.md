@@ -4,7 +4,7 @@ description: 허니비 작가의 youka 의상 모션
 pageClass: portfolio
 ---
 
-# 😴 youka 모션
+# 😴 youka 의상용 모션
 
 <div class="sq-video-frame">
   <video src="/assets/portfolio/VRSuya_Honeybee_youka_Motion.mp4" autoplay loop muted playsinline></video>

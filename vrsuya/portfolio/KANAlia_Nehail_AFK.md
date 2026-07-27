@@ -1,10 +1,10 @@
 ---
-title: 카나리아 AFK
-description: かなﾘぁ 작가의 카나리아 아바타 AFK
+title: 네하일 AFK
+description: かなﾘぁ 작가의 네하일 아바타 AFK
 pageClass: portfolio
 ---
 
-# 😴 카나리아 AFK
+# 😴 네하일 AFK
 
 <div class="sq-video-frame">
   <video src="/assets/portfolio/VRSuya_KANAlia_Nehail_AFK.mp4" autoplay loop muted playsinline></video>

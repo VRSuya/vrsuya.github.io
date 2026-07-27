@@ -4,7 +4,7 @@ description: 허니비 작가의 Seaside Breeze 의상 모션
 pageClass: portfolio
 ---
 
-# 😴 Seaside Breeze 모션
+# 😴 Seaside Breeze 의상용 모션
 
 <div class="sq-video-frame">
   <video src="/assets/portfolio/VRSuya_Honeybee_Seaside_Breeze_Motion.mp4" autoplay loop muted playsinline></video>

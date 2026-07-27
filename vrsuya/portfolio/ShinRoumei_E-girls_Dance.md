@@ -1,10 +1,10 @@
 ---
-title: E-girls - Anniversary!! 댄스
-description: 清楼銘 버튜버의 E-girls - Anniversary!! 댄스
+title: E-girls - Anniversary!! 댄스 카피
+description: 清楼銘 버튜버의 E-girls - Anniversary!! 댄스 카피
 pageClass: portfolio
 ---
 
-# 💃 E-girls - Anniversary!! 댄스
+# 💃 E-girls - Anniversary!! 댄스 카피
 
 <div class="sq-video-frame">
   <video src="/assets/portfolio/VRSuya_ShinRoumei_E-girls_Anniversary_Dance.mp4" autoplay loop muted playsinline></video>

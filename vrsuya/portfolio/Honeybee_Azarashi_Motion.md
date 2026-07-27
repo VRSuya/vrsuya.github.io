@@ -4,7 +4,7 @@ description: 허니비 작가의 Azarashi 의상 모션
 pageClass: portfolio
 ---
 
-# 😴 Azarashi 모션
+# 😴 Azarashi 의상용 모션
 
 <div class="sq-video-frame">
   <video src="/assets/portfolio/VRSuya_Honeybee_Azarashi_Motion.mp4" autoplay loop muted playsinline></video>

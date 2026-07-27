@@ -1,10 +1,10 @@
 ---
-title: NewJeans - OMG 댄스
-description: 清楼銘 버튜버의 NewJeans - OMG 댄스
+title: NewJeans - OMG 댄스 카피
+description: 清楼銘 버튜버의 NewJeans - OMG 댄스 카피
 pageClass: portfolio
 ---
 
-# 💃 NewJeans - OMG 댄스
+# 💃 NewJeans - OMG 댄스 카피
 
 <div class="sq-video-frame">
   <video src="/assets/portfolio/VRSuya_ShinRoumei_NewJeans_OMG_Dance.mp4" autoplay loop muted playsinline></video>

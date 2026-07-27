@@ -1,10 +1,10 @@
 ---
 title: ReParkaDress 의상용 모션
-description: 미나모토 슌 작가의 ReParkaDress 모션
+description: 미나모토 슌 작가의 ReParkaDress 의상용 모션
 pageClass: portfolio
 ---
 
-# 😴 ReParkaDress 모션
+# 😴 ReParkaDress 의상용 모션
 
 <div class="sq-video-frame">
   <video src="/assets/portfolio/VRSuya_MinamotoSyun_ReParkaDress_Motion.mp4" autoplay loop muted playsinline></video>

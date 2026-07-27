@@ -1,6 +1,6 @@
 ---
 title: Izanagi 의상용 AFK 및 모션
-description: Jarnefeldt 작가의 Izanagi 의상용 AFK
+description: Jarnefeldt 작가의 Izanagi 의상용 AFK 및 모션
 pageClass: portfolio
 ---
 
