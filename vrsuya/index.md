@@ -23,7 +23,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
    {
-    avatar: '/asset/member/levin.jpg',
+    avatar: '/assets/member/levin.jpg',
     name: '레빈',
     title: '3D 게임 애니메이터',
     links: [
@@ -39,7 +39,7 @@ const members = [
     ]
   },
   {
-    avatar: '/asset/member/macchiato.jpg',
+    avatar: '/assets/member/macchiato.jpg',
     name: '마끼아또',
     title: '기술지원 담당',
     links: [
@@ -57,15 +57,22 @@ const members = [
     ]
   },
   {
-    avatar: '/asset/member/nijey.jpg',
+    avatar: '/assets/member/nijey.jpg',
     name: 'Nijey',
     title: '3D 게임 애니메이터',
     links: [
+      { 
+        icon: {
+          svg: '<svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M0,0h24v24H0V0ZM18.14,10.27v-1.15l-2.88-4.62h-1l-1.57,3.78-1.55-3.25h-.87s-2.62,6.19-2.62,6.19v-5.88h-1.78v.52h-1.36v1.81h1.36v5.23c0,.46.38.84.84.84h.89v5.76h1.82s0-2.61,0-2.61c0-1.45,1.25-2.62,2.8-2.63,0,0,.01,0,.02,0h0c2.53,0,4.58,1.92,4.58,4.28v.96h1.33v-5.17h1.36v-2.86l-1.36-1.2Z"/></svg>'
+        },
+        link: 'https://babyxoxo.booth.pm/',
+        ariaLabel: 'BOOTH'
+      },
       { icon: 'twitter', link: 'https://twitter.com/Nijey_06' }
     ]
   },
   {
-    avatar: '/asset/member/futo.jpg',
+    avatar: '/assets/member/futo.jpg',
     name: '후토',
     title: '3D 게임 애니메이터',
     links: [
@@ -73,7 +80,7 @@ const members = [
     ]
   },
   {
-    avatar: '/asset/member/hopeskyd.jpg',
+    avatar: '/assets/member/hopeskyd.jpg',
     name: 'HopeskyD',
     title: '아시아시 프로젝트 IP 담당',
     links: [
