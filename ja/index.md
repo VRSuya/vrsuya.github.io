@@ -19,6 +19,26 @@ hero:
       link: "https://accounts.booth.pm/conversations/19238322/messages"
 
 features:
+  - title: 🧢 ヴィンテージデニムキャップ発売開始
+    details: VRSuyaメンバー・Nijey初のVRChatアイテム「ヴィンテージデニムキャップ」の販売を開始しました。Y2K・Kawaiiテイストを取り入れた新ブランド「BABYxoxo」の第一弾アイテムです。これから登場するBABYxoxoの新作にも、ぜひご期待ください！
+    icon: {
+      src: '/assets/news/babyxoxo_cap_card.jpg',
+      alt: 'Vintage Denim Cap',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://babyxoxo.booth.pm/items/8582772"
+    linkText: 詳しく見る
+  - title: 🚀 VRSuyaの全アイテムがMAに対応
+    details: アバターデータを直接編集する、これまでの複雑な導入方法とはもうお別れです。Modular AvatarとVRSuya Installerを組み合わせることで、アイテムをドラッグ＆ドロップするだけで簡単に導入できるようになりました。さらに、セットアップや管理もこれまで以上にシンプルで快適に行えます。
+    icon: {
+      src: '/assets/news/vrsuya_installer_card.jpg',
+      alt: 'VRSuya Installer',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrsuya.com/ja/addon/installer"
+    linkText: 詳しく見る
   - title: ✨ Reino Dance モーション配布開始
     details: 今SNSで話題の「Reino Dance」をVRChatで楽しもう！Modular Avatar対応により、アイテムをアバターへドラッグ＆ドロップするだけで、どこでもダンスを楽しめます。さらに進化した機能を、ぜひ体験してみてください！
     icon: {
@@ -58,25 +78,5 @@ features:
       height: 'auto'
     }
     link: "https://rimestudio.booth.pm/items/7667523"
-    linkText: 詳しく見る
-  - title: 🏘️ VRChatグループ開設
-    details: VRSuya公式VRChatグループを開設しました！アバター試着会や各種イベント、新着情報などを、VRChat内で手軽に受け取ることができます。購入者の皆さまもクリエイターの皆さまも、一緒に楽しめるコミュニティを目指して活動していきます！
-    icon: {
-      src: '/assets/news/vrchat_group_card.jpg',
-      alt: 'VRChatグループ',
-      width: '100%',
-      height: 'auto'
-    }
-    link: "https://vrc.group/VRSUYA.2033"
-    linkText: 詳しく見る
-  - title: 📱 More AFK スマートフォン発売開始
-    details: スマートフォンで気軽に楽しめるショート動画AFK。4種類のショート動画を、一人称視点でAFKとともに楽しめます。のんびりとくつろげる場所で、お気に入りの動画を流しながら、自分だけのAFKを演出してみませんか？
-    icon: {
-      src: '/assets/news/more-afk_card.jpg',
-      alt: 'More AFK スマートフォン',
-      width: '100%',
-      height: 'auto'
-    }
-    link: "https://vrsuya.booth.pm/items/6817525"
     linkText: 詳しく見る
 ---

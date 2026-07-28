@@ -2,6 +2,26 @@
 layout: home
 
 features:
+  - title: 🧢 ヴィンテージデニムキャップ発売開始
+    details: VRSuyaメンバー・Nijey初のVRChatアイテム「ヴィンテージデニムキャップ」の販売を開始しました。Y2K・Kawaiiテイストを取り入れた新ブランド「BABYxoxo」の第一弾アイテムです。これから登場するBABYxoxoの新作にも、ぜひご期待ください！
+    icon: {
+      src: '/assets/news/babyxoxo_cap_card.jpg',
+      alt: 'Vintage Denim Cap',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://babyxoxo.booth.pm/items/8582772"
+    linkText: 詳しく見る
+  - title: 🚀 VRSuyaの全アイテムがMAに対応
+    details: アバターデータを直接編集する、これまでの複雑な導入方法とはもうお別れです。Modular AvatarとVRSuya Installerを組み合わせることで、アイテムをドラッグ＆ドロップするだけで簡単に導入できるようになりました。さらに、セットアップや管理もこれまで以上にシンプルで快適に行えます。
+    icon: {
+      src: '/assets/news/vrsuya_installer_card.jpg',
+      alt: 'VRSuya Installer',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrsuya.com/ja/addon/installer"
+    linkText: 詳しく見る
   - title: ✨ Reino Dance モーション配布開始
     details: 今SNSで話題の「Reino Dance」をVRChatで楽しもう！Modular Avatar対応により、アイテムをアバターへドラッグ＆ドロップするだけで、どこでもダンスを楽しめます。さらに進化した機能を、ぜひ体験してみてください！
     icon: {

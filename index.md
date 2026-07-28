@@ -19,6 +19,26 @@ hero:
       link: "https://accounts.booth.pm/conversations/19238322/messages"
 
 features:
+  - title: 🧢 빈티지 데님 모자 발매
+    details: VRSuya의 멤버 Nijey의 첫 VRChat 아이템, 빈티지 데님 모자 아이템이 발매 개시 하였습니다. Y2K 카와이 감성이 담겨있는 신생 브랜드 BABYxoxo가 앞으로 발매할 아이템들이 기대가 되네요!
+    icon: {
+      src: '/assets/news/babyxoxo_cap_card.jpg',
+      alt: 'Vintage Denim Cap',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://babyxoxo.booth.pm/items/8582772"
+    linkText: 더 알아보기
+  - title: 🚀 VRSuya 모든 아이템 모듈러 아바타 대응
+    details: 기존에 아바타 데이터를 직접 수정했던 복잡한 방식은 이제 안녕! 모듈러 아바타와 VRSuya Installer의 조합으로 이제 간편하게 아이템을 도입하고 깔끔하게 관리해 보세요! 
+    icon: {
+      src: '/assets/news/vrsuya_installer_card.jpg',
+      alt: 'VRSuya Installer',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrsuya.com/addon/installer"
+    linkText: 더 알아보기
   - title: ✨ Reino Dance 모션 배포
     details: 지금 SNS에서 화제인 Reino Dance를 VRChat에서 즐겨보세요! 모듈러 아바타 대응으로 이제 아바타에 아이템을 끌어다가 넣기만 하면 어디서나 댄스 가능! 더욱 더 발전된 기능을 체험해 보세요!
     icon: {
@@ -58,25 +78,5 @@ features:
       height: 'auto'
     }
     link: "https://rimestudio.booth.pm/items/7667523"
-    linkText: 더 알아보기
-  - title: 🏘️ VRChat 그룹 오픈
-    details: VRChat 그룹에 VRSuya 그룹이 생겼습니다! VRSuya에서 진행하는 아바타 시착회나 다양한 이벤트 및 소식을 인게임에서 간편하게 구독해 보세요! 구매자 분들과 크리에이터 분들과 함께 즐길 수 있는 VRChat 그룹이 되기 위해 노력하겠습니다.
-    icon: {
-      src: '/assets/news/vrchat_group_card.jpg',
-      alt: 'VRChat 그룹',
-      width: '100%',
-      height: 'auto'
-    }
-    link: "https://vrc.group/VRSUYA.2033"
-    linkText: 더 알아보기
-  - title: 📱 More AFK 스마트폰 발매 개시
-    details: 스마트폰으로 가볍게 즐기는 짧은 동영상 AFK, 4가지의 짧은 영상을 1인칭 시점에서 AFK와 함께 즐길 수 있습니다! 편안하게 여유로운 곳에서 앉아서 자신이 좋아하는 영상으로 AFK를 꾸며볼까요?
-    icon: {
-      src: '/assets/news/more-afk_card.jpg',
-      alt: 'More AFK 스마트폰',
-      width: '100%',
-      height: 'auto'
-    }
-    link: "https://vrsuya.booth.pm/items/6817525"
     linkText: 더 알아보기
 ---
