@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://minamotosyun.booth.pm/items/7532680) |
 | 클라이언트 | 미나모토 슌 |
 | 제작 | ``레빈`` |

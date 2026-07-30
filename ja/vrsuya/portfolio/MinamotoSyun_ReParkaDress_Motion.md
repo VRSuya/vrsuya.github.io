@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://minamotosyun.booth.pm/items/7532680) |
 | クライアント | みなもとしゅん |
 | 制作 | ``Levin`` |

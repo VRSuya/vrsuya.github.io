@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://aivy.booth.pm/items/5576266) |
 | 클라이언트 | 아이비 |
 | 제작 | ``레빈`` |

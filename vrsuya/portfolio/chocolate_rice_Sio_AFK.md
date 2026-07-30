@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://chocolaterice.booth.pm/items/5650156) |
 | 클라이언트 | 초콜렛 라이스 |
 | 제작 | ``레빈`` ▶ 총괄<br>``마끼아또`` ▶ 기믹 세팅 |

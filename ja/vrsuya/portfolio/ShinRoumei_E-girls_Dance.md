@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [YouTube](https://www.youtube.com/@roumei_vtuber) |
 | クライアント | 清楼銘 |
 | 制作 | ``Levin`` |

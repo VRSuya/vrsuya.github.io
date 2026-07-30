@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://aivy.booth.pm/items/5576266) |
 | クライアント | Aivy |
 | 制作 | ``Levin`` |

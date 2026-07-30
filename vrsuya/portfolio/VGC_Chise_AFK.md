@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://goho-cheat-vrc.booth.pm/items/4123536) |
 | 클라이언트 | タクスペ |
 | 제작 | ``레빈`` |

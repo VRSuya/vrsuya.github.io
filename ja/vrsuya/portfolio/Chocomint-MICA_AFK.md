@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://chocomintou-shop.booth.pm/items/8361609) |
 | クライアント | Chocomint |
 | 制作 | ``Levin`` |

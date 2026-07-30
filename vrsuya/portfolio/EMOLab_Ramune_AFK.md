@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://chocolaterice.booth.pm/items/5650156) |
 | 클라이언트 | またたび |
 | 제작 | ``레빈`` ▶ 총괄<br>``후토`` ▶ 리깅<br>``Nijey`` ▶ 모션캡쳐 액팅, Loop 클린업, 표정 애니메이션 |

@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://kanalia.booth.pm/items/7425658) |
 | クライアント | かなﾘぁ |
 | 制作 | ``Levin`` ▶ 総合監修<br>``Futo`` ▶ Loop クリーンアップ、Loop ブラッシュアップ、表情アニメーション |

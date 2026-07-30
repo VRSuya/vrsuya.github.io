@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://elychiffon.booth.pm/items/4768506) [BOOTH](https://elychiffon.booth.pm/items/5255692) |
 | 클라이언트 | 熾桜 |
 | 제작 | ``레빈`` ▶ 총괄<br>``Nijey`` ▶ 모션캡쳐 보조, Loop 클린업, Loop 퀄리티업, Outro 클린업, Outro 퀄리티업 |

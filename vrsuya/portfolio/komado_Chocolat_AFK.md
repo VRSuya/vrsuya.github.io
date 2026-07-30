@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://komado.booth.pm/items/6405390) |
 | 클라이언트 | こまど |
 | 제작 | ``레빈`` ▶ 총괄<br>``마끼아또`` ▶ 표정 애니메이션 초안 |

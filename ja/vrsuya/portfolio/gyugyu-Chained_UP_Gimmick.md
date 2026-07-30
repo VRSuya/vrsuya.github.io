@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://liberoboutique.booth.pm/items/8355832) |
 | クライアント | gyugyu |
 | 制作 | ``マキアート`` ▶ ギミック設定<br>``Levin`` ▶ ポーズ制作 |

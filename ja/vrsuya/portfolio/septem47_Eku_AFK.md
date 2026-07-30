@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://septem47.booth.pm/items/7328764) |
 | クライアント | septem47 |
 | 制作 | ``Levin`` ▶ 総合監修<br>``Nijey`` ▶ モーションクリーンアップ、モーションブラッシュアップ |

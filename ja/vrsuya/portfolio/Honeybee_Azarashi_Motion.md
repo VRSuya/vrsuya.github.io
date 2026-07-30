@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://hb1975.booth.pm/items/5850455) |
 | クライアント | Honeybee |
 | 制作 | ``Levin`` ▶ 総合監修<br>``Futo`` ▶ リギング、アザラシアニメーション全般<br>``マキアート`` ▶ ギミック設定 |

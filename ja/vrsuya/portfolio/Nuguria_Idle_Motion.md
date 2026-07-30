@@ -7,7 +7,7 @@ pageClass: portfolio
 # 👏 Nuguria Idleモーション
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [YouTube](https://www.youtube.com/shorts/TdttOUZJpo8) |
 | クライアント | Nuguria |
 | 制作 | ``Levin`` ▶ 総合監修<br>``Futo`` ▶ リギング |

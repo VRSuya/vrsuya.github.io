@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://hb1975.booth.pm/items/7195061) |
 | 클라이언트 | 허니비 |
 | 제작 | ``레빈`` |

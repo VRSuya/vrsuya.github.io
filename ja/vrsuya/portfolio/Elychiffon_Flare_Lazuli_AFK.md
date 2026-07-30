@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://elychiffon.booth.pm/items/4768506) [BOOTH](https://elychiffon.booth.pm/items/5255692) |
 | クライアント | 熾桜 |
 | 制作 | ``Levin`` ▶ 総合監修<br>``Nijey`` ▶ モーションキャプチャー補助、Loop クリーンアップ、Loop ブラッシュアップ、Outro クリーンアップ、Outro ブラッシュアップ |

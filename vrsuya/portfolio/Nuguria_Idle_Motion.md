@@ -7,7 +7,7 @@ pageClass: portfolio
 # 👏 너구리아 아이들 모션
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [YouTube](https://www.youtube.com/shorts/TdttOUZJpo8) |
 | 클라이언트 | 너구리아 |
 | 제작 | ``레빈`` ▶ 총괄<br>``후토`` ▶ 리깅 |

@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://rimestudio.booth.pm/items/7667523) |
 | クライアント | リメ |
 | 制作 | ``Levin`` |

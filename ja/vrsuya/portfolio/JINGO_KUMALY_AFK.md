@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://https://jingo1016.booth.pm/items/7928592) |
 | クライアント | JINGO |
 | 制作 | ``Levin`` ▶ 総合監修<br>``Nijey`` ▶ モーションアクティング |

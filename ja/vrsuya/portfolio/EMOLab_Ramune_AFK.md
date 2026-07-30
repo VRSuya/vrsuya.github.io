@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://chocolaterice.booth.pm/items/5650156) |
 | クライアント | またたび |
 | 制作 | ``Levin`` ▶ 総合監修<br>``Futo`` ▶ リギング<br>``Nijey`` ▶ モーションアクティング、Loop クリーンアップ、表情アニメーション |

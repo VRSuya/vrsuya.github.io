@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://kyubihome.booth.pm/items/3390957) |
 | クライアント | キュビ |
 | 制作 | ``Levin`` |

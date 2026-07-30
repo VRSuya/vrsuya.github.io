@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://liberoboutique.booth.pm/items/8355832) |
 | 클라이언트 | 규규 |
 | 제작 | ``마끼아또`` ▶ 기믹 세팅<br>``레빈`` ▶ 포즈 제작 |

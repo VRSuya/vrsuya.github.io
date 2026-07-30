@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://chocomintou-shop.booth.pm/items/8361609) |
 | 클라이언트 | Chocomint |
 | 제작 | ``레빈`` |

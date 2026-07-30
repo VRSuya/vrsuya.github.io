@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://as025886.booth.pm/items/4358508) |
 | 클라이언트 | 사키 |
 | 제작 | ``레빈`` |

@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://hb1975.booth.pm/items/7195061) |
 | クライアント | Honeybee |
 | 制作 | ``Levin`` |

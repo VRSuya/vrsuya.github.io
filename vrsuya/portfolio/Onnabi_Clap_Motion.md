@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [YouTube](https://www.youtube.com/@%EB%94%B0%EB%B4%89%EB%82%98%EB%A3%A8) |
 | 클라이언트 | 온나비 |
 | 제작 | ``레빈`` ▶ 총괄<br>``후토`` ▶ 리깅 |

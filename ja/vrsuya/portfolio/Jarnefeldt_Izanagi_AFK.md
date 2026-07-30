@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://rayleonard.booth.pm/items/5439151) |
 | クライアント | Jarnefeldt |
 | 制作 | ``Levin`` ▶ 総合監修<br>``Futo`` ▶ 武器アニメーション、モーションアクティング、Idle モーションブラッシュアップ |

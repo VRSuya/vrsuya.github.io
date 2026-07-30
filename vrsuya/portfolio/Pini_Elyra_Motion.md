@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://kainrypus.booth.pm/items/5036071) |
 | 클라이언트 | 피니 |
 | 제작 | ``레빈`` |

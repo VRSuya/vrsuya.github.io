@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://sisters.booth.pm/items/6989943) |
 | 클라이언트 | はむけつ |
 | 제작 | ``레빈`` ▶ 총괄<br>``후토`` ▶ 리깅, Loop 클린업, Loop 퀄리티업, 표정 애니메이션 |

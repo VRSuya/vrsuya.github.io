@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://komado.booth.pm/items/6405390) |
 | クライアント | こまど |
 | 制作 | ``Levin`` ▶ 総合監修<br>``マキアート`` ▶ 表情アニメーションラフ |

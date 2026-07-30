@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://jingo1016.booth.pm/items/5058077) |
 | クライアント | JINGO |
 | 制作 | ``Levin`` |

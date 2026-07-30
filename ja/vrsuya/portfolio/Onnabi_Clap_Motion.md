@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [YouTube](https://www.youtube.com/@%EB%94%B0%EB%B4%89%EB%82%98%EB%A3%A8) |
 | クライアント | Onnabi |
 | 制作 | ``Levin`` ▶ 総合監修<br>``Futo`` ▶ リギング |

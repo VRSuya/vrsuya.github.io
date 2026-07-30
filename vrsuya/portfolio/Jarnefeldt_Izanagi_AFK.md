@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://rayleonard.booth.pm/items/5439151) |
 | 클라이언트 | Jarnefeldt |
 | 제작 | ``레빈`` ▶ 총괄<br>``후토`` ▶ 무기 애니메이션, 모션캡쳐 액팅, Idle 모션 폴리싱 |

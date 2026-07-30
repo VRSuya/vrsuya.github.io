@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://as025886.booth.pm/items/4358508) |
 | クライアント | Saki |
 | 制作 | ``Levin`` |

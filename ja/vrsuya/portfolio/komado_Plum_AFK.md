@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://komado.booth.pm/items/7770415) |
 | クライアント | こまど |
 | 制作 | ``Levin`` ▶ 総合監修<br>``Futo`` ▶ リギング、モーションキャプチャー補助、Loop クリーンアップ、表情アニメーション |

@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://ponderogen.booth.pm/items/6106863) |
 | クライアント | ぽんでろ |
 | 制作 | ``Levin`` ▶ 総合監修<br>``マキアート`` ▶ 表情アニメーションラフ |

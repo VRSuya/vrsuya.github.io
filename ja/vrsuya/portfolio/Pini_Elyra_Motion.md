@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://kainrypus.booth.pm/items/5036071) |
 | クライアント | Pini |
 | 制作 | ``Levin`` |

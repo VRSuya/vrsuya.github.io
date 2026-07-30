@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://chocolaterice.booth.pm/items/8122803) |
 | クライアント | Chocolate rice |
 | 制作 | ``Levin`` ▶ 総合監修<br>``Nijey`` ▶ Loop 一部ラフ制作、Loop クリーンアップ、Loop 一部ブラッシュアップ、Loop 表情ブラッシュアップ |

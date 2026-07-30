@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://goho-cheat-vrc.booth.pm/items/4123536) |
 | クライアント | タクスペ |
 | 制作 | ``Levin`` |

@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://rimestudio.booth.pm/items/7667523) |
 | 클라이언트 | 리메 |
 | 제작 | ``레빈`` |

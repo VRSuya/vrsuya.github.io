@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://chocolaterice.booth.pm/items/8122803) |
 | 클라이언트 | 초콜렛 라이스 |
 | 제작 | ``레빈`` ▶ 총괄<br>``Nijey`` ▶ Loop 일부 초벌, Loop 클린업, Loop 일부 퀄리티업, Loop 표정 퀄리티업 |

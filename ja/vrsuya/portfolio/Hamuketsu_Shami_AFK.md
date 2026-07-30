@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | カテゴリー | 内容 |
-| --- | --- |
+| ---: | --- |
 | リンク | [BOOTH](https://sisters.booth.pm/items/8328967) |
 | クライアント | はむけつ |
 | 制作 | ``Levin`` ▶ 総合監修<br>``Nijey`` ▶ Loop クリーンアップ、Loop ブラッシュアップ、モーションキャプチャー補助 |

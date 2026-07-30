@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://jingo1016.booth.pm/items/5058077) |
 | 클라이언트 | 진권 |
 | 제작 | ``레빈`` |

@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [YouTube](https://www.youtube.com/@roumei_vtuber) |
 | 클라이언트 | 清楼銘 |
 | 제작 | ``레빈`` |

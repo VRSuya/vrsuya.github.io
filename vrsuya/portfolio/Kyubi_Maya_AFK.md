@@ -11,7 +11,7 @@ pageClass: portfolio
 </div>
 
 | 분야 | 내용 |
-| --- | --- |
+| ---: | --- |
 | 링크 | [BOOTH](https://kyubihome.booth.pm/items/3390957) |
 | 클라이언트 | 뀨비 |
 | 제작 | ``레빈`` |
