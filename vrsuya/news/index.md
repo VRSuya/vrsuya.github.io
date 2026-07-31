@@ -20,7 +20,7 @@ features:
       width: '100%',
       height: 'auto'
     }
-    link: "https://vrsuya.com/addon/installer"
+    link: "/addon/installer"
     linkText: 더 알아보기
   - title: ✨ Reino Dance 모션 배포
     details: 지금 SNS에서 화제인 Reino Dance를 VRChat에서 즐겨보세요! 모듈러 아바타 대응으로 이제 아바타에 아이템을 끌어다가 넣기만 하면 어디서나 댄스 가능! 더욱 더 발전된 기능을 체험해 보세요!

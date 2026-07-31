@@ -37,7 +37,7 @@ features:
       width: '100%',
       height: 'auto'
     }
-    link: "https://vrsuya.com/ja/addon/installer"
+    link: "/ja/addon/installer"
     linkText: 詳しく見る
   - title: ✨ Reino Dance モーション配布開始
     details: 今SNSで話題の「Reino Dance」をVRChatで楽しもう！Modular Avatar対応により、アイテムをアバターへドラッグ＆ドロップするだけで、どこでもダンスを楽しめます。さらに進化した機能を、ぜひ体験してみてください！
