@@ -159,6 +159,46 @@ export default defineConfig({
                 {text: '뉴스룸', link: '/vrsuya/news' }
               ]
             }
+          ],
+          '/item/': [
+            {
+              text: 'FAQ',
+              items: [
+                {text: '자주 묻는 질문과 답변', link: '/item/faq' }
+              ]
+            },
+            {
+              text: '아이템',
+              items: [
+                {text: 'AFK 3종 세트', link: '/item/afk' },
+                {text: '모구모구 프로젝트', link: '/item/mogumogu' },
+                {text: '오타게', link: '/item/wotagei' },
+                {text: '아시아시 프로젝트', link: '/item/asiasi' },
+                {text: '뇨로뇨로 로코모션', link: '/item/nyoronyoro' },
+                {text: '핸드모션', link: '/item/handmotion' },
+                {text: '스야스야', link: '/item/suyasuya' },
+                {text: 'VR 사운드패드', link: '/item/soundpad' },
+                {text: 'More AFK', link: '/item/more-afk' },
+                {text: '핫삐핫삐 로코모션', link: '/item/happihappi' }
+              ]
+            }
+          ],
+          '/addon/': [
+            {
+              text: 'VPM',
+              items: [
+                {text: 'VPM 등록', link: '/addon/vpm' }
+              ]
+            },
+            {
+              text: '애드온',
+              collapsed: false,
+              items: [
+                {text: 'Core', link: '/addon/core' },
+                {text: 'Installer', link: '/addon/installer' },
+                {text: 'Utility', link: '/addon/utility' }
+              ]
+            }
           ]
         }
       }
@@ -278,6 +318,46 @@ export default defineConfig({
               collapsed: true,
               items: [
                 {text: 'ニュースルーム', link: '/ja/vrsuya/news' }
+              ]
+            }
+          ],
+          '/ja/item/': [
+            {
+              text: 'FAQ',
+              items: [
+                {text: 'よくあるご質問', link: '/ja/item/faq' }
+              ]
+            },
+            {
+              text: 'アイテム',
+              items: [
+                {text: 'AFK 3種セット', link: '/ja/item/afk' },
+                {text: 'もぐもぐプロジェクト', link: '/ja/item/mogumogu' },
+                {text: 'ヲタ芸', link: '/ja/item/wotagei' },
+                {text: '足足プロジェクト', link: '/ja/item/asiasi' },
+                {text: 'にょろにょろロコモーション', link: '/ja/item/nyoronyoro' },
+                {text: 'ハンドモーション', link: '/ja/item/handmotion' },
+                {text: 'すやすや', link: '/ja/item/suyasuya' },
+                {text: 'VRサウンドパッド', link: '/ja/item/soundpad' },
+                {text: 'More AFK', link: '/ja/item/more-afk' },
+                {text: 'はっぴはっぴロコモーション', link: '/ja/item/happihappi' }
+              ]
+            }
+          ],
+          '/ja/addon/': [
+            {
+              text: 'VPM',
+              items: [
+                {text: 'VPM登録', link: '/ja/addon/vpm' }
+              ]
+            },
+            {
+              text: 'アドオン',
+              collapsed: false,
+              items: [
+                {text: 'Core', link: '/ja/addon/core' },
+                {text: 'Installer', link: '/ja/addon/installer' },
+                {text: 'Utility', link: '/ja/addon/utility' }
               ]
             }
           ]
