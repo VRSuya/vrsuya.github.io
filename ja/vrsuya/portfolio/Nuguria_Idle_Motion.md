@@ -6,6 +6,10 @@ pageClass: portfolio
 
 # 👏 Nuguria Idleモーション
 
+<div class="sq-video-frame">
+  <video src="/assets/portfolio/VRSuya_Nuguria_Idle_Motion.mp4" autoplay loop muted playsinline></video>
+</div>
+
 | カテゴリー | 内容 |
 | ---: | --- |
 | リンク | [YouTube](https://www.youtube.com/shorts/TdttOUZJpo8) |
