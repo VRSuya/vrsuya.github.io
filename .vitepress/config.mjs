@@ -371,6 +371,7 @@ export default defineConfig({
     }
   },
   cleanUrls: true,
+  ignoreDeadLinks: true,
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   sitemap: {
     hostname: 'https://vrsuya.com'
