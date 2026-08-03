@@ -24,6 +24,7 @@ export default defineConfig({
         ariaLabel: 'BOOTH'
       },
       { icon: 'twitter', link: 'https://twitter.com/VRSuya' },
+      { icon: 'discord', link: 'https://discord.gg/9JqJK4Mxjd' },
       { icon: 'youtube', link: 'https://www.youtube.com/@VRSuya' },
       { icon: 'github', link: 'https://github.com/VRSuya' }
     ],
