@@ -13,7 +13,23 @@ import { VPButton } from 'vitepress/theme'
 
 <br>
 
-<VPButton tag="a" href="/ja/addon/vpm" text="VPMリポジトリの登録とパッケージのインストール" theme="brand" />
+<VPButton tag="a" href="./vpm" text="VPMリポジトリの登録とパッケージのインストール" theme="brand" />
+
+---
+
+# VRSuya HDiffPatcher 使用方法 {#setup-hdiffpatcher}
+
+<br>
+
+<VPButton tag="a" href="./installer_hdiffpatcher" text="HDiffPatcher 使用方法" theme="brand" /> 
+
+---
+
+# VRSuya AvatarRebuilder 使用方法 {#setup-avatarrebuilder}
+
+<br>
+
+<VPButton tag="a" href="./installer_avatarrebuilder" text="AvatarRebuilder 使用方法" theme="brand" /> 
 
 ---
 

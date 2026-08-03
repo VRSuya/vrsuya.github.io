@@ -13,7 +13,23 @@ import { VPButton } from 'vitepress/theme'
 
 <br>
 
-<VPButton tag="a" href="/addon/vpm" text="VPM 리포지토리 등록 및 패키지 설치" theme="brand" /> 
+<VPButton tag="a" href="./vpm" text="VPM 리포지토리 등록 및 패키지 설치" theme="brand" /> 
+
+---
+
+# VRSuya HDiffPatcher 사용 방법 {#setup-hdiffpatcher}
+
+<br>
+
+<VPButton tag="a" href="./installer_hdiffpatcher" text="HDiffPatcher 사용 방법" theme="brand" /> 
+
+---
+
+# VRSuya AvatarRebuilder 사용 방법 {#setup-avatarrebuilder}
+
+<br>
+
+<VPButton tag="a" href="./installer_avatarrebuilder" text="AvatarRebuilder 사용 방법" theme="brand" /> 
 
 ---
 

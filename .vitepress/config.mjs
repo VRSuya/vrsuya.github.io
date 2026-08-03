@@ -197,6 +197,8 @@ export default defineConfig({
               items: [
                 {text: 'Core', link: '/addon/core' },
                 {text: 'Installer', link: '/addon/installer' },
+                {text: 'HDiffPatcher', link: '/addon/installer_hdiffpatcher' },
+                {text: 'AvatarRebuilder', link: '/addon/installer_avatarrebuilder' },
                 {text: 'Utility', link: '/addon/utility' }
               ]
             }
@@ -358,6 +360,8 @@ export default defineConfig({
               items: [
                 {text: 'Core', link: '/ja/addon/core' },
                 {text: 'Installer', link: '/ja/addon/installer' },
+                {text: 'HDiffPatcher', link: '/ja/addon/installer_hdiffpatcher' },
+                {text: 'AvatarRebuilder', link: '/ja/addon/installer_avatarrebuilder' },
                 {text: 'Utility', link: '/ja/addon/utility' }
               ]
             }
