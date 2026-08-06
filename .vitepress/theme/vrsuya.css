@@ -142,3 +142,10 @@
 [lang]:where(:lang(ja)) {
   --vp-font-family-base: 'Paperlogy', 'Spoqa Han Sans Neo', 'Noto Sans CJK JP', sans-serif !important;
 }
+
+.VPMenuLink + .VPMenuGroup,
+.VPMenuGroup + .VPMenuGroup {
+  margin-top: 12px !important;
+  padding-top: 12px !important;
+  border-top: 1px solid var(--vp-c-divider) !important;
+}
