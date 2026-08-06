@@ -38,6 +38,22 @@ VRSuyaのアイテムは、アバターの素体データ<small>（スケール�
 
 # 導入方法 {#guide}
 
+<div class="video-container">
+  <iframe 
+    src="https://www.youtube.com/embed/4LkA4Y58XC4" 
+    title="VRSuya Patcher" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+YouTube動画には字幕をご用意しています。字幕をオンにしてご視聴ください。
+
+<br>
+
+---
+
 ### Blenderでアバターへパッチを適用する
 
 ![Blender設定](/assets/avatarpatch/vrsuya_avatar_patch_01.jpg)

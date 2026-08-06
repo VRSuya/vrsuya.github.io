@@ -38,6 +38,22 @@ VRSuya의 아이템은 아바타의 순정 상태<small>(스케일링 등)</smal
 
 # 적용 방법 {#guide}
 
+<div class="video-container">
+  <iframe 
+    src="https://www.youtube.com/embed/4LkA4Y58XC4" 
+    title="VRSuya Patcher" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+YouTube 영상에 자막이 포함되어 있으므로, 활성화하고 시청해 주세요
+
+<br>
+
+---
+
 ### Blender에서 아바타 패치
 
 ![Blender 설정](/assets/avatarpatch/vrsuya_avatar_patch_01.jpg)
