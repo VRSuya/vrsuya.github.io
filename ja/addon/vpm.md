@@ -29,6 +29,8 @@ YouTube動画には字幕をご用意しています。字幕をオンにして�
 
 ## VPMを手動で登録する {#manual-add-repository}
 
+:::::: details 詳細ガイド
+
 ![VRChat Creator Companion](/assets/addon/vpm/vpm_1_vcc_settings.jpg)
 
 VRChat Creator Companionで**「Settings」ボタン**をクリックします。
@@ -51,6 +53,8 @@ VRSuya Installerを使用するには、[Modular Avatar](https://modular-avatar.
 ![VPM追加](/assets/addon/vpm/vpm_3_add_repository.jpg)
 
 **「Add Repository」**ボタンをクリックして登録します。
+
+::::::
 
 ## VPMパッケージをインストールする {#add-package}
 

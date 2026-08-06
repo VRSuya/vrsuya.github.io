@@ -29,6 +29,8 @@ YouTube 영상에 자막이 포함되어 있으므로, 활성화하고 시청해
 
 ## VPM 리포지토리 수동 등록 {#manual-add-repository}
 
+:::::: details 상세과정
+
 ![VRChat Creator Companion](/assets/addon/vpm/vpm_1_vcc_settings.jpg)
 
 VRChat Creator Companion에서 **Settings 버튼을 클릭**합니다
@@ -51,6 +53,8 @@ VRSuya Installer 패키지는 [Modular Avatar](https://modular-avatar.nadena.dev
 ![VPM 추가](/assets/addon/vpm/vpm_3_add_repository.jpg)
 
 **Add Repository 버튼을 눌러 등록**합니다
+
+::::::
 
 ## VPM 패키지 설치 {#add-package}
 
