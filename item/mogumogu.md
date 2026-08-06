@@ -22,3 +22,9 @@ import { VPButton } from 'vitepress/theme'
 </div>
 
 <VPButton tag="a" href="https://vrsuya.booth.pm/items/4337226" text="BOOTH 페이지로" theme="brand" /> 
+
+<br>
+
+## 도입 가이드 {#guide}
+
+<VPButton tag="a" href="../addon/installer_hdiffpatcher" text="아바타 패치 및 도입 방법" theme="brand" />

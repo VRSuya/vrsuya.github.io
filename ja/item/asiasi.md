@@ -31,4 +31,10 @@ import { VPButton } from 'vitepress/theme'
   </iframe>
 </div>
 
-<VPButton tag="a" href="https://vrsuya.booth.pm/items/4910748" text="BOOTHページへ" theme="brand" /> 
+<VPButton tag="a" href="https://vrsuya.booth.pm/items/4910748" text="BOOTHページへ" theme="brand" />
+
+<br>
+
+## 導入ガイド {#guide}
+
+<VPButton tag="a" href="../addon/installer_hdiffpatcher" text="アバターパッチの適用方法" theme="brand" />
