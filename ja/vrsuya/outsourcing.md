@@ -169,4 +169,4 @@ PayPalでお支払いの場合は、**PayPalの決済手数料として、お見
 
 ---
 
-<VPButton tag="a" href="https://vrsuya.booth.pm/conversations" text="BOOTHメッセージでお問い合わせ" theme="brand" /> <VPButton tag="a" href="mailto:vrsuya@gmail.com" text="メールでお問い合わせ" theme="brand" />
+<VPButton tag="a" href="https://vrsuya.booth.pm/conversations/new" text="BOOTHメッセージでお問い合わせ" theme="brand" /> <VPButton tag="a" href="mailto:vrsuya@gmail.com" text="メールでお問い合わせ" theme="brand" />

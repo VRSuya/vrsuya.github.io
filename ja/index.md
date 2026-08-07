@@ -16,7 +16,7 @@ hero:
       link: /ja/vrsuya/outsourcing
     - theme: alt
       text: お問い合わせ
-      link: "https://vrsuya.booth.pm/conversations"
+      link: "https://vrsuya.booth.pm/conversations/new"
 
 features:
   - title: 🧢 ヴィンテージデニムキャップ発売開始
