@@ -62,11 +62,13 @@ export default defineConfig({
           { text: '아이템',
             items: [
               {
+                text: '',
                 items: [
                   {text: 'FAQ', link: '/item/faq' }
                 ]
               },
               {
+                text: '',
                 items: [
                   {text: 'AFK 3종 세트', link: '/item/afk' },
                   {text: '모구모구 프로젝트', link: '/item/mogumogu' },
@@ -85,11 +87,13 @@ export default defineConfig({
           { text: '애드온',
             items: [
               {
+                text: '',
                 items: [
                   {text: 'VPM', link: '/addon/vpm' }
                 ]
               },
               {
+                text: '',
                 items: [
                   {text: 'Core', link: '/addon/core' },
                   {text: 'Installer', link: '/addon/installer' },
@@ -225,11 +229,13 @@ export default defineConfig({
           { text: 'アイテム',
             items: [
               {
+                text: '',
                 items: [
                   {text: 'FAQ', link: '/ja/item/faq' }
                 ]
               },
               {
+                text: '',
                 items: [
                   {text: 'AFK 3種セット', link: '/ja/item/afk' },
                   {text: 'もぐもぐプロジェクト', link: '/ja/item/mogumogu' },
@@ -248,11 +254,13 @@ export default defineConfig({
           { text: 'アドオン',
             items: [
               {
+                text: '',
                 items: [
                   {text: 'VPM', link: '/ja/addon/vpm' }
                 ]
               },
               {
+                text: '',
                 items: [
                   {text: 'Core', link: '/ja/addon/core' },
                   {text: 'Installer', link: '/ja/addon/installer' },
