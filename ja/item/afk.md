@@ -122,3 +122,49 @@ Animationタブで Preview ボタンを押してPreviewモードを終了しま�
 作成されたVariant Prefabの名前を変更し、オフセットを調整したアバターへ追加すれば使用できます。
 
 ## モニター画面の変更方法 {#change-screen}
+
+::: info
+
+AFK 3種セットとMore AFK スマートフォンは、どちらも同じ手順で変更できます。
+
+:::
+
+<br>
+
+![GIFアセットをインポート](/assets/changescreen/vrsuya_replace_gif_import_gif.jpg)
+
+Unityプロジェクトへ、使用したいGIFファイルをインポートします。
+
+<br>
+
+![変更するマテリアルを選択](/assets/changescreen/vrsuya_replace_gif_load_material.jpg)
+
+`VRSuya/AFK/Material/Working` フォルダーにある `VRSuya_AFK_Notebook_Screen_Custom_2` マテリアルを選択します。
+
+<br>
+
+![Main Color 2ndパネル](/assets/changescreen/vrsuya_replace_gif_load_main_2nd.jpg)
+
+lilToonマテリアルの `Advanced` タブを開き、`Main Color / Alpha` → `Main Color 2nd` パネルへ移動します。
+
+<br>
+
+![UVをリセット](/assets/changescreen/vrsuya_replace_gif_reset_uv.jpg)
+
+パネル下部にある `Reset` ボタンを押して設定を初期化します。
+
+<br>
+
+![GIFを変換](/assets/changescreen/vrsuya_replace_gif_convert_gif.jpg)
+
+インポートしたGIFファイルを `Color` に設定し、`Convert Gif` ボタンを押してテクスチャへ変換します。
+
+変換時に、テクスチャの解像度を2のべき乗に変更するかを確認するダイアログが表示された場合は、`No` を選択してください。
+
+<br>
+
+![テクスチャのリサイズ](/assets/changescreen/vrsuya_replace_gif_resize_texture.jpg)
+
+変換されたテクスチャはGIFアセットの近くに作成され、自動的に Color へ割り当てられます。
+
+テクスチャの解像度や容量に応じて Max Size を調整し、最適化してください。

@@ -121,3 +121,49 @@ Animation 탭에서 Preview 버튼을 눌러서 Preview 모드를 종료합니�
 새로 생긴 Variant Prefab 파일 이름을 변경한 후, 맞춤 설정한 아바타에 넣으면 사용하실 수 있습니다
 
 ## 모니터 화면 변경 방법 {#change-screen}
+
+::: info
+
+AFK 3종 세트와 More AFK 스마트폰 모두 같은 방식으로 변경할 수 있습니다
+
+:::
+
+<br>
+
+![GIF 에셋 임포트](/assets/changescreen/vrsuya_replace_gif_import_gif.jpg)
+
+Unity 프로젝트에 원하는 GIF 파일을 임포트 합니다
+
+<br>
+
+![수정하려는 머테리얼 선택](/assets/changescreen/vrsuya_replace_gif_load_material.jpg)
+
+`VRSuya/AFK/Material/Working` 폴더에서 `VRSuya_AFK_Notebook_Screen_Custom_2` 머테리얼을 선택합니다
+
+<br>
+
+![Main 2nd 텍스쳐 패널](/assets/changescreen/vrsuya_replace_gif_load_main_2nd.jpg)
+
+lilToon 머테리얼 패널에서 `Advanced` 탭에서 `Main Color / Alpha` 패널에서 `Main Color 2nd` 패널로 들어갑니다
+
+<br>
+
+![UV 리셋](/assets/changescreen/vrsuya_replace_gif_reset_uv.jpg)
+
+해당 패널 아래에 위치한 `Reset` 버튼을 눌러서 내용을 초기화합니다
+
+<br>
+
+![GIF 변환](/assets/changescreen/vrsuya_replace_gif_convert_gif.jpg)
+
+임포트한 GIF 파일을 Color 란에 넣은 다음, `Convert Gif` 버튼을 눌러서 텍스쳐를 변환합니다
+
+이때, 텍스쳐의 해상도를 2의 제곱으로 바꿀 것인지 묻는 대화상자에서는 `No`를 누릅니다
+
+<br>
+
+![텍스쳐 리사이징](/assets/changescreen/vrsuya_replace_gif_resize_texture.jpg)
+
+변환된 텍스쳐가 GIF 에셋 근처에 생기고 자동으로 Color 란에 할당이 되었습니다
+
+해당 텍스쳐의 해상도와 용량을 고려하여서 Max Size를 조정하여 최적화를 합니다
