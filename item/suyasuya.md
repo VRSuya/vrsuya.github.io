@@ -21,4 +21,14 @@ import { VPButton } from 'vitepress/theme'
   </iframe>
 </div>
 
-<VPButton tag="a" href="https://vrsuya.booth.pm/items/5846447" text="BOOTH 페이지로" theme="brand" /> 
+<VPButton tag="a" href="https://vrsuya.booth.pm/items/5846447" text="BOOTH 페이지로" theme="brand" />
+
+## 페이셜 오류 수정 방법 {#fix-facial}
+
+![FixFacialAnimation](/assets/fixfacialanimation/vrsuya_fixfacialanimation.jpg)
+
+Prefab에 포함되어 있는, FixFacialAnimation 컴포넌트에서 `Get Avatar Data` 버튼을 누르면 현재 수정한 페이셜 쉐이프키 리스트가 나옵니다
+
+무효화를 하려는 쉐이프키 옆의 `Add` 버튼을 눌러서, 무효화 쉐이프키 리스트에 추가합니다
+
+추가로 필요하면 직접 쉐이프키 이름을 추가할 수도 있습니다
