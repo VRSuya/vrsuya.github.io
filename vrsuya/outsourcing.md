@@ -163,4 +163,4 @@ PayPal로 결제하실 경우 **PayPal 수수료 정책으로 인해 견적 금�
 
 ---
 
-<VPButton tag="a" href="https://accounts.booth.pm/conversations/19238322/messages" text="BOOTH 메시지로 문의하기" theme="brand" /> <VPButton tag="a" href="mailto:vrsuya@gmail.com" text="이메일로 문의하기" theme="brand" />
+<VPButton tag="a" href="https://vrsuya.booth.pm/conversations" text="BOOTH 메시지로 문의하기" theme="brand" /> <VPButton tag="a" href="mailto:vrsuya@gmail.com" text="이메일로 문의하기" theme="brand" />

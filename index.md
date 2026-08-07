@@ -16,7 +16,7 @@ hero:
       link: /vrsuya/outsourcing
     - theme: alt
       text: 고객문의
-      link: "https://accounts.booth.pm/conversations/19238322/messages"
+      link: "https://vrsuya.booth.pm/conversations"
 
 features:
   - title: 🧢 빈티지 데님 모자 발매
