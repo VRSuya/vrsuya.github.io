@@ -149,21 +149,3 @@
   padding-top: 12px !important;
   border-top: 1px solid var(--vp-c-divider) !important;
 }
-
-[lang]:where(:lang(ko-KR)) .custom-block.info .custom-block-title { font-size: 0; }
-[lang]:where(:lang(ko-KR)) .custom-block.info .custom-block-title::before { content: "안내"; font-size: 1rem; }
-[lang]:where(:lang(ko-KR)) .custom-block.tip .custom-block-title { font-size: 0; }
-[lang]:where(:lang(ko-KR)) .custom-block.tip .custom-block-title::before { content: "팁"; font-size: 1rem; }
-[lang]:where(:lang(ko-KR)) .custom-block.warning .custom-block-title { font-size: 0; }
-[lang]:where(:lang(ko-KR)) .custom-block.warning .custom-block-title::before { content: "주의"; font-size: 1rem; }
-[lang]:where(:lang(ko-KR)) .custom-block.danger .custom-block-title { font-size: 0; }
-[lang]:where(:lang(ko-KR)) .custom-block.danger .custom-block-title::before { content: "중요"; font-size: 1rem; }
-
-[lang]:where(:lang(ja-JP)) .custom-block.info .custom-block-title { font-size: 0; }
-[lang]:where(:lang(ja-JP)) .custom-block.info .custom-block-title::before { content: "ご案内"; font-size: 1rem; }
-[lang]:where(:lang(ja-JP)) .custom-block.tip .custom-block-title { font-size: 0; }
-[lang]:where(:lang(ja-JP)) .custom-block.tip .custom-block-title::before { content: "ヒント"; font-size: 1rem; }
-[lang]:where(:lang(ja-JP)) .custom-block.warning .custom-block-title { font-size: 0; }
-[lang]:where(:lang(ja-JP)) .custom-block.warning .custom-block-title::before { content: "ご注意"; font-size: 1rem; }
-[lang]:where(:lang(ja-JP)) .custom-block.danger .custom-block-title { font-size: 0; }
-[lang]:where(:lang(ja-JP)) .custom-block.danger .custom-block-title::before { content: "重要"; font-size: 1rem; }

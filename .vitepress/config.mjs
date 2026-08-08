@@ -208,6 +208,15 @@ export default defineConfig({
             }
           ]
         }
+      },
+      markdown: {
+        container: {
+          tipLabel: '팁',
+          warningLabel: '주의',
+          dangerLabel: '중요',
+          infoLabel: '안내',
+          detailsLabel: '상세'
+        }
       }
     },
     ja: {
@@ -374,6 +383,15 @@ export default defineConfig({
               ]
             }
           ]
+        }
+      },
+      markdown: {
+        container: {
+          tipLabel: 'ヒント',
+          warningLabel: 'ご注意',
+          dangerLabel: '重要',
+          infoLabel: 'ご案内',
+          detailsLabel: '詳細'
         }
       }
     }
