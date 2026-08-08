@@ -403,12 +403,15 @@ export default defineConfig({
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'VRSuya' }],
     ['meta', { property: 'og:description', content: 'Dream and Space / 3D Animation & Modeling Creator Group' }],
+    ['meta', { property: 'og:siteName', content: 'VRSuya' }],
     ['meta', { property: 'og:image', content: 'https://vrsuya.com/assets/card/website_card.jpg' }],
     ['meta', { property: 'og:url', content: 'https://vrsuya.com' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:title', content: 'VRSuya' }],
     ['meta', { name: 'twitter:description', content: 'Dream and Space / 3D Animation & Modeling Creator Group' }],
-    ['meta', { name: 'twitter:image', content: 'https://vrsuya.com/assets/card/website_card.jpg' }]
+    ['meta', { name: 'twitter:image', content: 'https://vrsuya.com/assets/card/website_card.jpg' }],
+    ['meta', { name: 'twitter:creator', content: '@VRSuya' }],
+    ['meta', { name: 'twitter:domain', content: 'vrsuya.com' }]
   ],
   sitemap: {
     hostname: 'https://vrsuya.com'
@@ -431,9 +434,6 @@ export default defineConfig({
     const locale = isJa ? 'ja_JP' : 'ko_KR'
     const alternateLocale = isJa ? 'ko_KR' : 'ja_JP'
 
-    head.push(['meta', { property: 'og:locale', content: locale }])
-    head.push(['meta', { property: 'og:locale:alternate', content: alternateLocale }])
-
     if (title) {
       head.push(['meta', { property: 'og:title', content: title }])
       head.push(['meta', { name: 'twitter:title', content: title }])
@@ -448,8 +448,14 @@ export default defineConfig({
       head.push(['meta', { name: 'twitter:card', content: 'summary_large_image' }])
     }
 
+    head.push(['meta', { property: 'og:siteName', content: 'VRSuya' }])
     head.push(['meta', { property: 'og:url', content: `https://vrsuya.com${pageData.relativePath.replace(/(index)?\.md$/, '')}` }])
     head.push(['meta', { property: 'og:type', content: 'website' }])
+    head.push(['meta', { property: 'og:locale', content: locale }])
+    head.push(['meta', { property: 'og:locale:alternate', content: alternateLocale }])
+
+    head.push(['meta', { property: 'twitter:domain', content: 'vrsuya.com' }])
+    head.push(['meta', { property: 'twitter:creator', content: '@VRSuya' }])
 
     return head
   }
