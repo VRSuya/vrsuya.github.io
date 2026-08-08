@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "VRSuya",
-  description: "Dream and Space",
+  description: "Dream and Space / 3D Animation & Modeling Creator Group",
   themeConfig: {
     logo: {
       light: '/assets/logo/vrsuya_logo_svg_light.svg',
@@ -398,8 +398,59 @@ export default defineConfig({
   },
   cleanUrls: true,
   ignoreDeadLinks: true,
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'VRSuya' }],
+    ['meta', { property: 'og:description', content: 'Dream and Space / 3D Animation & Modeling Creator Group' }],
+    ['meta', { property: 'og:image', content: 'https://vrsuya.com/assets/card/website_card.jpg' }],
+    ['meta', { property: 'og:url', content: 'https://vrsuya.com' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: 'VRSuya' }],
+    ['meta', { name: 'twitter:description', content: 'Dream and Space / 3D Animation & Modeling Creator Group' }],
+    ['meta', { name: 'twitter:image', content: 'https://vrsuya.com/assets/card/website_card.jpg' }]
+  ],
   sitemap: {
     hostname: 'https://vrsuya.com'
+  },
+
+  async transformHead({ pageData, siteConfig }) {
+    const head = []
+
+    const title =
+      pageData.frontmatter.title ||
+      pageData.title ||
+      siteConfig.site.title
+
+    const description =
+      pageData.frontmatter.description ||
+      siteConfig.site.description
+
+    const image = pageData.frontmatter.image || 'https://vrsuya.com/assets/card/website_card.jpg'
+    const isJa = pageData.relativePath.startsWith('ja/')
+    const locale = isJa ? 'ja_JP' : 'ko_KR'
+    const alternateLocale = isJa ? 'ko_KR' : 'ja_JP'
+
+    head.push(['meta', { property: 'og:locale', content: locale }])
+    head.push(['meta', { property: 'og:locale:alternate', content: alternateLocale }])
+
+    if (title) {
+      head.push(['meta', { property: 'og:title', content: title }])
+      head.push(['meta', { name: 'twitter:title', content: title }])
+    }
+    if (description) {
+      head.push(['meta', { property: 'og:description', content: description }])
+      head.push(['meta', { name: 'twitter:description', content: description }])
+    }
+    if (image) {
+      head.push(['meta', { property: 'og:image', content: image }])
+      head.push(['meta', { name: 'twitter:image', content: image }])
+      head.push(['meta', { name: 'twitter:card', content: 'summary_large_image' }])
+    }
+
+    head.push(['meta', { property: 'og:url', content: `https://vrsuya.com${pageData.relativePath.replace(/(index)?\.md$/, '')}` }])
+    head.push(['meta', { property: 'og:type', content: 'website' }])
+
+    return head
   }
 })
