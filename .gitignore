@@ -6,4 +6,3 @@ Thumbs.db
 .vitepress/cache
 .vitepress/dist
 node_modules/
-yarn.lock
