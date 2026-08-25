@@ -3,6 +3,13 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "VRSuya",
   description: "Dream and Space / 3D Animation & Modeling Creator Group",
+  vite: {
+    server: {
+      watch: {
+        ignored: ['**/.vs/**']
+      }
+    }
+  },
   themeConfig: {
     logo: {
       light: '/assets/logo/vrsuya_logo_svg_light.svg',
@@ -120,7 +127,8 @@ export default defineConfig({
                 {text: 'MI☆CA AFK', link: '/vrsuya/portfolio/Chocomint-MICA_AFK' },
                 {text: 'Chained UP 의상용 기믹', link: '/vrsuya/portfolio/gyugyu-Chained_UP_Gimmick' },
                 {text: '샤미 AFK', link: '/vrsuya/portfolio/Hamuketsu_Shami_AFK' },
-                // {text: '우라라 AFK', link: '/vrsuya/portfolio/MyMeVR-Urara_AFK' },
+                {text: '우라라 AFK', link: '/vrsuya/portfolio/MyMeVR-Urara_AFK' },
+                {text: '라떼 AFK', link: '/vrsuya/portfolio/BlueCloud-Latte_AFK' },
                 {text: '마요 AFK', link: '/vrsuya/portfolio/chocolate_rice_MAYO_AFK' },
                 {text: '플럼 AFK', link: '/vrsuya/portfolio/komado_Plum_AFK' },
                 {text: '플레어/라줄리 AFK', link: '/vrsuya/portfolio/Elychiffon_Flare_Lazuli_AFK' },
@@ -296,7 +304,8 @@ export default defineConfig({
                 {text: 'MI☆CA AFK', link: '/ja/vrsuya/portfolio/Chocomint-MICA_AFK' },
                 {text: 'Chained UP衣装用ギミック', link: '/ja/vrsuya/portfolio/gyugyu-Chained_UP_Gimmick' },
                 {text: 'シャミ AFK', link: '/ja/vrsuya/portfolio/Hamuketsu_Shami_AFK' },
-                // {text: 'うらら AFK', link: '/ja/vrsuya/portfolio/MyMeVR-Urara_AFK' },
+                {text: 'うらら AFK', link: '/ja/vrsuya/portfolio/MyMeVR-Urara_AFK' },
+                {text: 'ラテ AFK', link: '/ja/vrsuya/portfolio/BlueCloud-Latte_AFK' },
                 {text: 'まよ AFK', link: '/ja/vrsuya/portfolio/chocolate_rice_MAYO_AFK' },
                 {text: 'プラム AFK', link: '/ja/vrsuya/portfolio/komado_Plum_AFK' },
                 {text: 'フレア/ラズリ AFK', link: '/ja/vrsuya/portfolio/Elychiffon_Flare_Lazuli_AFK' },
