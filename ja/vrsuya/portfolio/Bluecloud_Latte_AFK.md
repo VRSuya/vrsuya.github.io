@@ -7,7 +7,7 @@ pageClass: portfolio
 # 😴 ラテ AFK
 
 <div class="sq-video-frame">
-  <video src="/assets/portfolio/VRSuya_BlueCloud-Latte_AFK.mp4" autoplay loop muted playsinline></video>
+  <video src="/assets/portfolio/VRSuya_Bluecloud_Latte_AFK.mp4" autoplay loop muted playsinline></video>
 </div>
 
 | カテゴリー | 内容 |

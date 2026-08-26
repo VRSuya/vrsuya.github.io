@@ -7,12 +7,12 @@ pageClass: portfolio
 # 😴 うらら AFK
 
 <div class="sq-video-frame">
-  <video src="/assets/portfolio/VRSuya_MyMeVR-Urara_AFK.mp4" autoplay loop muted playsinline></video>
+  <video src="/assets/portfolio/VRSuya_MyMeVR_Urara_AFK.mp4" autoplay loop muted playsinline></video>
 </div>
 
 | カテゴリー | 内容 |
 | ---: | --- |
-| リンク | [BOOTH](https://booth.pm/ko/items/8166471) |
+| リンク | [BOOTH](https://suzu-ya.booth.pm/items/8166471) |
 | クライアント | MyMe.VR、Suzu |
 | 制作 | ``Levin`` ▶ 総合監修、ブラッシュアップおよび仕上げ<br>``Futo`` ▶ リギング、全アニメーションのクリーンアップ、ブラッシュアップ、表情アニメーション、Tacoオブジェクトアニメーション |
 | 制作日 | 2026年3月 |
