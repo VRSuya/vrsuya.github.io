@@ -19,6 +19,16 @@ hero:
       link: "https://vrsuya.booth.pm/conversations/new"
 
 features:
+  - title: 👊 도타바타(우당탕탕) 기믹 발매
+    details: 머리를 콩 하고 맞는 순간, 몸이 휙 날아가 데굴데굴 구르거나, 땅속에 투콰앙하기도!? 풀트래킹만으로는 표현하기 어려운 코믹한 리액션을 친구들과 함께 즐겨보세요!<br>맞는 순간 실감 나게 반응하는 특별한 리액션 기믹, 직접 체험해 보실래요?
+    icon: {
+      src: '/assets/news/dotabata_card.png',
+      alt: '도타바타(우당탕탕) 기믹',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrsuya.booth.pm/items/8856057"
+    linkText: 더 알아보기
   - title: 🧢 빈티지 데님 모자 발매
     details: VRSuya의 멤버 Nijey의 첫 VRChat 아이템, 빈티지 데님 모자 아이템이 발매 개시 하였습니다. Y2K 카와이 감성이 담겨있는 신생 브랜드 BABYxoxo가 앞으로 발매할 아이템들이 기대가 되네요!
     icon: {
@@ -68,15 +78,5 @@ features:
       height: 'auto'
     }
     link: "https://macchiato.booth.pm/items/7682496"
-    linkText: 더 알아보기
-  - title: 💖 VIVH 아바타 발매
-    details: 리메 작가의 첫 VRChat 아바타 VIVH 제작에 VRSuya 팀이 기술지원 및 아바타 시착회 협찬 등 많은 부분에서 지원을 하였습니다. 서툴지만 감정 표현에는 솔직한 그녀, 하지만 조심해야 될 거예요! 그녀에게는 뒷 이야기가 있거든요.
-    icon: {
-      src: '/assets/news/vivh_card.jpg',
-      alt: 'VIVH 아바타',
-      width: '100%',
-      height: 'auto'
-    }
-    link: "https://rimestudio.booth.pm/items/7667523"
     linkText: 더 알아보기
 ---

@@ -2,6 +2,16 @@
 layout: home
 
 features:
+  - title: 👊 どたばたギミック発売開始
+    details: 頭をコツンと叩かれた瞬間、体が吹っ飛んでゴロゴロ転がったり、地面にドカーンとめり込んだり!? フルトラッキングだけでは表現しきれないコミカルなリアクションを、フレンドと一緒に楽しんでみませんか？<br>叩かれた瞬間に臨場感たっぷりに反応する、特別なリアクションギミック。ぜひ体験してみてください！
+    icon: {
+      src: '/assets/news/dotabata_card.png',
+      alt: 'どたばたギミック',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrsuya.booth.pm/items/8856057"
+    linkText: 詳しく見る
   - title: 🧢 ヴィンテージデニムキャップ発売開始
     details: VRSuyaメンバー・Nijey初のVRChatアイテム「ヴィンテージデニムキャップ」の販売を開始しました。Y2K・Kawaiiテイストを取り入れた新ブランド「BABYxoxo」の第一弾アイテムです。これから登場するBABYxoxoの新作にも、ぜひご期待ください！
     icon: {

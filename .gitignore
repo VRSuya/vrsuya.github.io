@@ -1,6 +1,7 @@
 # Macchiato-Project
 .DS_Store
 Thumbs.db
+.vs/
 
 # VitePress
 .vitepress/cache

@@ -86,7 +86,8 @@ export default defineConfig({
                   {text: '스야스야', link: '/item/suyasuya' },
                   {text: 'VR 사운드패드', link: '/item/soundpad' },
                   {text: 'More AFK', link: '/item/more-afk' },
-                  {text: '핫삐핫삐 로코모션', link: '/item/happihappi' }
+                  {text: '핫삐핫삐 로코모션', link: '/item/happihappi' },
+                  {text: '도타바타(우당탕탕) 기믹', link: '/item/dotabata' }
                 ]
               }
             ]
@@ -192,7 +193,8 @@ export default defineConfig({
                 {text: '스야스야', link: '/item/suyasuya' },
                 {text: 'VR 사운드패드', link: '/item/soundpad' },
                 {text: 'More AFK', link: '/item/more-afk' },
-                {text: '핫삐핫삐 로코모션', link: '/item/happihappi' }
+                {text: '핫삐핫삐 로코모션', link: '/item/happihappi' },
+                {text: '도타바타(우당탕탕) 기믹', link: '/item/dotabata' }
               ]
             }
           ],
@@ -263,7 +265,8 @@ export default defineConfig({
                   {text: 'すやすや', link: '/ja/item/suyasuya' },
                   {text: 'VRサウンドパッド', link: '/ja/item/soundpad' },
                   {text: 'More AFK', link: '/ja/item/more-afk' },
-                  {text: 'はっぴはっぴロコモーション', link: '/ja/item/happihappi' }
+                  {text: 'はっぴはっぴロコモーション', link: '/ja/item/happihappi' },
+                  {text: 'どたばたギミック', link: '/ja/item/dotabata' }
                 ]
               }
             ]
@@ -369,7 +372,8 @@ export default defineConfig({
                 {text: 'すやすや', link: '/ja/item/suyasuya' },
                 {text: 'VRサウンドパッド', link: '/ja/item/soundpad' },
                 {text: 'More AFK', link: '/ja/item/more-afk' },
-                {text: 'はっぴはっぴロコモーション', link: '/ja/item/happihappi' }
+                {text: 'はっぴはっぴロコモーション', link: '/ja/item/happihappi' },
+                {text: 'どたばたギミック', link: '/ja/item/dotabata' }
               ]
             }
           ],
