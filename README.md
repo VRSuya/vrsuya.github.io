@@ -1,4 +1,4 @@
-# VRSuya
+# Website
 
 ```
 VRSuya 웹사이트 리포지토리
@@ -7,5 +7,12 @@ VRSuya 웹사이트 리포지토리
 ## 리포지토리 주소
 
 ```
-https://github.com/VRSuya/vrsuya.github.io.git
+https://gitlab.vrsuya.com/vrsuya-git/Website.git
+```
+
+## Copyright
+
+```
+Copyright 2024 VRSuya. All rights reserved.
+https://twitter.com/VRSuya / vrsuya@gmail.com
 ```

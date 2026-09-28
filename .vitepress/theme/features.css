@@ -1,0 +1,32 @@
+.VPFeatures .icon {
+  width: 100% !important;
+  height: auto !important;
+  max-width: none !important;
+  aspect-ratio: 16 / 9;
+  margin-bottom: 16px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.VPFeatures .icon img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover;
+}
+
+@media (min-width: 960px) {
+  .VPHomeFeatures .container .items {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .VPHomeFeatures .container .item {
+    grid-column: span 1 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    flex-basis: 100% !important;
+    margin: 0 !important;
+  }
+}

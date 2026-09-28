@@ -1,0 +1,13 @@
+.portfolio table {
+  width: 100% !important;
+  max-width: 500px;
+  display: table;
+  margin: 1.5rem 0;
+  table-layout: auto;
+}
+
+.portfolio th, 
+.portfolio td {
+  word-break: break-word;
+  padding: 12px;
+}
