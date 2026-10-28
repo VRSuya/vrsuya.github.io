@@ -87,7 +87,8 @@ export default defineConfig({
                   {text: 'VR 사운드패드', link: '/item/soundpad' },
                   {text: 'More AFK', link: '/item/more-afk' },
                   {text: '핫삐핫삐 로코모션', link: '/item/happihappi' },
-                  {text: '도타바타(우당탕탕) 기믹', link: '/item/dotabata' }
+                  {text: '도타바타(우당탕탕) 기믹', link: '/item/dotabata' },
+                  {text: '우모레루! AFK', link: '/item/umoreru' }
                 ]
               }
             ]
@@ -194,7 +195,8 @@ export default defineConfig({
                 {text: 'VR 사운드패드', link: '/item/soundpad' },
                 {text: 'More AFK', link: '/item/more-afk' },
                 {text: '핫삐핫삐 로코모션', link: '/item/happihappi' },
-                {text: '도타바타(우당탕탕) 기믹', link: '/item/dotabata' }
+                {text: '도타바타(우당탕탕) 기믹', link: '/item/dotabata' },
+                {text: '우모레루! AFK', link: '/item/umoreru' }
               ]
             }
           ],
@@ -266,7 +268,8 @@ export default defineConfig({
                   {text: 'VRサウンドパッド', link: '/ja/item/soundpad' },
                   {text: 'More AFK', link: '/ja/item/more-afk' },
                   {text: 'はっぴはっぴロコモーション', link: '/ja/item/happihappi' },
-                  {text: 'どたばたギミック', link: '/ja/item/dotabata' }
+                  {text: 'どたばたギミック', link: '/ja/item/dotabata' },
+                  {text: 'うもれる！AFK', link: '/ja/item/umoreru' }
                 ]
               }
             ]
@@ -373,7 +376,8 @@ export default defineConfig({
                 {text: 'VRサウンドパッド', link: '/ja/item/soundpad' },
                 {text: 'More AFK', link: '/ja/item/more-afk' },
                 {text: 'はっぴはっぴロコモーション', link: '/ja/item/happihappi' },
-                {text: 'どたばたギミック', link: '/ja/item/dotabata' }
+                {text: 'どたばたギミック', link: '/ja/item/dotabata' },
+                {text: 'うもれる！AFK', link: '/ja/item/umoreru' }
               ]
             }
           ],

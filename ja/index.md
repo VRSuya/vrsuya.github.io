@@ -19,6 +19,16 @@ hero:
       link: "https://vrsuya.booth.pm/conversations/new"
 
 features:
+  - title: 🪦 うもれる！AFK 発売開始
+    details: AFKになると地面に引きずり込まれて、上から墓石がドーン！？ 離席中はお墓でひと休み。戻ってきたら、地面からひょっこり復活！
+    icon: {
+      src: '/assets/news/umoreru_card.png',
+      alt: 'うもれる！AFK',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrsuya.booth.pm/items/9000436"
+    linkText: 詳しく見る
   - title: 👊 どたばたギミック発売開始
     details: 頭をコツンと叩かれた瞬間、体が吹っ飛んでゴロゴロ転がったり、地面にドカーンとめり込んだり!? フルトラッキングだけでは表現しきれないコミカルなリアクションを、フレンドと一緒に楽しんでみませんか？<br>叩かれた瞬間に臨場感たっぷりに反応する、特別なリアクションギミック。ぜひ体験してみてください！
     icon: {
@@ -68,15 +78,5 @@ features:
       height: 'auto'
     }
     link: "https://vrsuya.booth.pm/items/8501457"
-    linkText: 詳しく見る
-  - title: 💖 ロコナアバター発売開始
-    details: VRSuyaメンバー・マキアート初のVRChatアバター「ロコナ」が発売開始！天翔学園で生徒会長を務める少女。長い留学生活を送っていたため、同級生より少し年上ですが、VRChatの世界でも無事に馴染むことはできるのでしょうか？
-    icon: {
-      src: '/assets/news/rokona_card.jpg',
-      alt: 'ロコナアバター',
-      width: '100%',
-      height: 'auto'
-    }
-    link: "https://macchiato.booth.pm/items/7682496"
     linkText: 詳しく見る
 ---
