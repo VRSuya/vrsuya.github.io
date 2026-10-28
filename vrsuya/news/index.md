@@ -2,6 +2,16 @@
 layout: home
 
 features:
+  - title: 🪦 우모레루! AFK 발매
+    details: AFK가 되면 땅속으로 쏙, 위에서는 비석이 쾅!? 자리를 비운 동안에는 무덤에서 한숨 돌리고, 돌아오면 땅속에서 빼꼼하고 부활해 보세요!<br>출시일 · 2026년 10월 23일
+    icon: {
+      src: '/assets/news/umoreru_card.png',
+      alt: '우모레루! AFK',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrsuya.booth.pm/items/9000436"
+    linkText: 더 알아보기
   - title: 👊 도타바타(우당탕탕) 기믹 발매
     details: 머리를 콩 하고 맞는 순간, 몸이 휙 날아가 데굴데굴 구르거나, 땅속에 투콰앙하기도!? 풀트래킹만으로는 표현하기 어려운 코믹한 리액션을 친구들과 함께 즐겨보세요!<br>맞는 순간 실감 나게 반응하는 특별한 리액션 기믹, 직접 체험해 보실래요?
     icon: {
