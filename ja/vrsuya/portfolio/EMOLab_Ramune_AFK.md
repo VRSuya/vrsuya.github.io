@@ -12,7 +12,7 @@ pageClass: portfolio
 
 | カテゴリー | 内容 |
 | ---: | --- |
-| リンク | [BOOTH](https://chocolaterice.booth.pm/items/5650156) |
+| リンク | [BOOTH](https://emolab.booth.pm/items/7699667) |
 | クライアント | またたび |
 | 制作 | ``Levin`` ▶ 総合監修<br>``Futo`` ▶ リギング<br>``Nijey`` ▶ モーションアクティング、Loop クリーンアップ、表情アニメーション |
 | 制作日 | 2025年11月 |

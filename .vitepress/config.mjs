@@ -126,6 +126,8 @@ export default defineConfig({
               text: '포트폴리오',
               collapsed: true,
               items: [
+                {text: '솔트 AFK', link: '/vrsuya/portfolio/komado_Salt_AFK' },
+                {text: '세세노라 AFK', link: '/vrsuya/portfolio/KANAlia_Sesenola_AFK' },
                 {text: '라떼 AFK', link: '/vrsuya/portfolio/Bluecloud_Latte_AFK' },
                 {text: 'MI☆CA AFK', link: '/vrsuya/portfolio/Chocomint-MICA_AFK' },
                 {text: 'Chained UP 의상용 기믹', link: '/vrsuya/portfolio/gyugyu-Chained_UP_Gimmick' },
@@ -307,6 +309,8 @@ export default defineConfig({
               text: 'ポートフォリオ',
               collapsed: true,
               items: [
+                {text: 'ソルト AFK', link: '/ja/vrsuya/portfolio/komado_Salt_AFK' },
+                {text: 'セセノラ AFK', link: '/ja/vrsuya/portfolio/KANAlia_Sesenola_AFK' },
                 {text: 'ラテ AFK', link: '/ja/vrsuya/portfolio/Bluecloud_Latte_AFK' },
                 {text: 'MI☆CA AFK', link: '/ja/vrsuya/portfolio/Chocomint-MICA_AFK' },
                 {text: 'Chained UP衣装用ギミック', link: '/ja/vrsuya/portfolio/gyugyu-Chained_UP_Gimmick' },

@@ -12,7 +12,7 @@ pageClass: portfolio
 
 | カテゴリー | 内容 |
 | ---: | --- |
-| リンク | [BOOTH](https://https://jingo1016.booth.pm/items/7928592) |
+| リンク | [BOOTH](https://jingo1016.booth.pm/items/7928592) |
 | クライアント | JINGO |
 | 制作 | ``Levin`` ▶ 総合監修<br>``Nijey`` ▶ モーションアクティング |
 | 制作日 | 2025年11月 |
